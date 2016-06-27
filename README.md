@@ -10,7 +10,7 @@ A curated list about the decentralized web technologies.
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
 
 ### Communication
-* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - Anonymous encrypted message broadcasting.
+* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
 * [Matrix](https://matrix.org/) - a communication platform that can integrate with existing chat tools like slack. They just released a usability-focused client.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
@@ -23,7 +23,7 @@ A curated list about the decentralized web technologies.
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
-* [DAT Project](http://dat-data.com/) - a orrent-based public data storage, versioning, and sharing aimed at scientists, or anyone else with data.
+* [DAT Project](http://dat-data.com/) - a torrent-based public data storage, versioning, and sharing aimed at scientists, or anyone else with data.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
 
@@ -47,7 +47,7 @@ A curated list about the decentralized web technologies.
 ### Microblogging
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
-* [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging from the free software implementations of Bitcoin and BitTorrent protocols.
+* [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 
 ## Credits:
