@@ -11,7 +11,8 @@ A curated list about the decentralized web technologies.
 
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
-* [Matrix](https://matrix.org/) - a communication platform that can integrate with existing chat tools like slack. They just released a usability-focused client.
+* [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
+* [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
 
@@ -42,7 +43,6 @@ A curated list about the decentralized web technologies.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more. 
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
-* [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 
 ### Microblogging
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
