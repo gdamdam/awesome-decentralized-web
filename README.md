@@ -31,6 +31,7 @@ A curated list about the decentralized web technologies.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
+* [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 
@@ -43,6 +44,7 @@ A curated list about the decentralized web technologies.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more. 
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
+* [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 
 ### Microblogging
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
