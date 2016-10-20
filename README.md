@@ -8,6 +8,7 @@ A curated list about the decentralized web technologies.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
 * [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
+* [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
