@@ -28,6 +28,7 @@ A curated list about the decentralized web technologies.
 * [DAT Project](http://dat-data.com/) - a torrent-based public data storage, versioning, and sharing aimed at scientists, or anyone else with data.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
+* [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia
 
 ### Decentralized web
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
