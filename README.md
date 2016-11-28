@@ -30,6 +30,7 @@ A curated list about the decentralized web technologies.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
 * [CacheP2P](http://www.cachep2p.com/) - a distributed caching platform.
 * [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia.
+* [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 
 ### Decentralized web
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
