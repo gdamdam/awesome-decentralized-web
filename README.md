@@ -10,6 +10,7 @@ A curated list about the decentralized web technologies.
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
 * [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
+
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
@@ -17,9 +18,11 @@ A curated list about the decentralized web technologies.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
 
+
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
 * [IPDB](https://ipdb.foundation/) - a federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits.
+
 
 ### Data Storage and Sharing
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing
@@ -32,6 +35,7 @@ A curated list about the decentralized web technologies.
 * [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 
+
 ### Decentralized web
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
@@ -40,20 +44,25 @@ A curated list about the decentralized web technologies.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 
+
 ### Marketplaces
 * [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
 
-### Misc   
-* [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
-* [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
-* [Onename](https://onename.com/) - a global database for people, companies, websites and more. 
-* [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
-* [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 
 ### Microblogging
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
+
+
+### Misc   
+* [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
+* [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
+* [Onename](https://onename.com/) - a global database for people, companies, websites and more.
+* [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
+* [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
+* [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
+* [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
 
 
 ## Credits:
