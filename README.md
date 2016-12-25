@@ -63,6 +63,9 @@ A curated list about the decentralized web technologies.
 * [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
+* [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
+* [beaker](https://beakerbrowser.com/) - Beaker is a Peer-to-Peer Web Browser, made for users to run applications independently of hosts.
+* [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
 
 
 ## Credits:
