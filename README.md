@@ -34,6 +34,7 @@ A curated list about the decentralized web technologies.
 * [CacheP2P](http://www.cachep2p.com/) - a distributed caching platform.
 * [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
+* [Filecoin](http://filecoin.io/) - Filecoin is a data storage network and electronic currency based on Bitcoin.
 
 
 ### Decentralized web
