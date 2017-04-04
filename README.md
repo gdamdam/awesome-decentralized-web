@@ -51,6 +51,7 @@ A curated list about the decentralized web technologies.
 
 
 ### Microblogging
+* [mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
