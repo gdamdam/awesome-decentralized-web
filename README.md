@@ -17,7 +17,7 @@ A curated list about the decentralized web technologies.
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
-
+* [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat
 
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
@@ -35,7 +35,7 @@ A curated list about the decentralized web technologies.
 * [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [Filecoin](http://filecoin.io/) - Filecoin is a data storage network and electronic currency based on Bitcoin.
-
+* [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 
 ### Decentralized web
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
