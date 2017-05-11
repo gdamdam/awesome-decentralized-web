@@ -9,7 +9,7 @@ A curated list about the decentralized web technologies.
 * [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
 * [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
-
+* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping. 
 
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
