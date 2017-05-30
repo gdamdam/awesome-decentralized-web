@@ -36,7 +36,7 @@ A curated list about the decentralized web technologies.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [Filecoin](http://filecoin.io/) - Filecoin is a data storage network and electronic currency based on Bitcoin.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer.
-* [PasteDat](https://github.com/taravancil/paste-dat )A peer-to-peer gist alternative with Dat.
+* [PasteDat](https://github.com/taravancil/paste-dat ) - A peer-to-peer gist alternative with Dat.
 
 ### Decentralized web
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
