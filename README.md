@@ -68,6 +68,7 @@ A curated list about the decentralized web technologies.
 * [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
 * [beaker](https://beakerbrowser.com/) - Beaker is a Peer-to-Peer Web Browser, made for users to run applications independently of hosts.
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
+* [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
 
 
 ## Credits:
