@@ -5,7 +5,7 @@ A curated list about the decentralized web technologies.
 
 ### Blockchain infrastructure
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
-* [Blockstack](https://blockstack.org/) - a platform for application development with built in decentralized DNS.
+* [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
 * [Ethereum](https://ethereum.org/) - "a distributed answer to HTTP POST" - it's a blockcahin-based platform for decentralized app development.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
