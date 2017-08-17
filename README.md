@@ -58,7 +58,11 @@ A curated list about the decentralized web technologies.
 
 
 ### Microblogging
-* [mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
+* [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
+* [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
+* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
+* [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
+* [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
