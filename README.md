@@ -35,6 +35,7 @@ A curated list about the decentralized web technologies.
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. 
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
+* [ORC](https://orc.network/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
 * [Sia](http://sia.tech/) - a decentralized private cloud. 
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage.
