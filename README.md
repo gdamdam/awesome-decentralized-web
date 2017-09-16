@@ -83,7 +83,7 @@ A curated list about the decentralized web technologies.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
-
+* [Blockply](https://blockply.com/) - a collection of the most interesting & outstanding Blockchain projects.
 
 
 ## Credits:
