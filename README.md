@@ -40,7 +40,6 @@ A curated list about the decentralized web technologies.
 * [Sia](http://sia.tech/) - a decentralized private cloud. 
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage.
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack.
-* [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
 * [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia.
 
@@ -84,7 +83,7 @@ A curated list about the decentralized web technologies.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
-
+* [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
 
 ## Credits:
