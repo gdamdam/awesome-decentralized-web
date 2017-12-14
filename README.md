@@ -60,6 +60,7 @@ A curated list about the decentralized web technologies.
 
 
 ### Microblogging
+* [DAT Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium.
 * [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
 * [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
 * [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
