@@ -9,7 +9,7 @@ A curated list about the decentralized web technologies.
 * [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
 * [Ethereum](https://ethereum.org/) - "a distributed answer to HTTP POST" - it's a blockcahin-based platform for decentralized app development.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
-* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping. 
+* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
 
 
@@ -22,6 +22,13 @@ A curated list about the decentralized web technologies.
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 
 
+### Cryptocurrencies
+* [Bitcoin](https://bitcoin.org) - It is the first decentralized digital currency, as the system works without a central bank or single administrator.
+* [Ethereum](https://ethereum.org) - Blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
+* [Monero](https://getmonero.org/) - Aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
+* [Zcash](https://z.cash/) - Open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.
+
+
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
 * [IPDB](https://ipdb.foundation/) - a federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits.
@@ -32,13 +39,13 @@ A curated list about the decentralized web technologies.
 * [CacheP2P](http://www.cachep2p.com/) - a distributed caching platform.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [DAT Project](http://dat-data.com/) - a torrent-based public data storage, versioning, and sharing aimed at scientists, or anyone else with data.
-* [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. 
+* [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orc.network/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
 * [Rotonde](http://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
-* [Sia](http://sia.tech/) - a decentralized private cloud. 
+* [Sia](http://sia.tech/) - a decentralized private cloud.
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage.
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
