@@ -61,6 +61,7 @@ A curated list about the decentralized web technologies.
 * [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
+* [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps.
 
 
 ### Marketplaces
