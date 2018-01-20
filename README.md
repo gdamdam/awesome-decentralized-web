@@ -53,6 +53,7 @@ A curated list about the decentralized web technologies.
 
 
 ### Decentralized web
+* [beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer browser with tools to create and host websites. It's made for users to run applications independently of hosts and achieves this by building on top of `dat`.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
@@ -81,7 +82,6 @@ A curated list about the decentralized web technologies.
 
 ### Misc   
 
-* [beaker](https://beakerbrowser.com/) - Beaker is a Peer-to-Peer Web Browser, made for users to run applications independently of hosts.
 * [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
