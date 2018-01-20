@@ -79,9 +79,9 @@ A curated list about the decentralized web technologies.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 
-### Misc   
+### Misc
 
-* [beaker](https://beakerbrowser.com/) - Beaker is a Peer-to-Peer Web Browser, made for users to run applications independently of hosts.
+* [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
