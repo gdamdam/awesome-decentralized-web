@@ -38,7 +38,7 @@ A curated list about the decentralized web technologies.
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing.
 * [CacheP2P](http://www.cachep2p.com/) - a distributed caching platform.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
-* [DAT Project](http://dat-data.com/) - a torrent-based public data storage, versioning, and sharing aimed at scientists, or anyone else with data.
+* [Dat Protocol](https://datproject.org/) - Versioned, encrypted, peer-to-peer protocol for distributed file sharing.
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
@@ -53,7 +53,7 @@ A curated list about the decentralized web technologies.
 
 
 ### Decentralized web
-* [beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer browser with tools to create and host websites. It's made for users to run applications independently of hosts and achieves this by building on top of `dat`.
+* [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
@@ -69,7 +69,7 @@ A curated list about the decentralized web technologies.
 
 
 ### Microblogging
-* [DAT Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium.
+* [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium.
 * [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
 * [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
 * [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
@@ -80,8 +80,7 @@ A curated list about the decentralized web technologies.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 
-### Misc   
-
+### Misc
 * [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
