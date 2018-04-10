@@ -60,6 +60,7 @@ A curated list about the decentralized web technologies.
 * [Mysterium Network](https://mysterium.network/) - Open Sourced Network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
 * [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated video streaming platform using P2P directly in the web browser.       
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 
