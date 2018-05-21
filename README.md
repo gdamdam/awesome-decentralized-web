@@ -90,9 +90,10 @@ A curated list about the decentralized web technologies.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more.
+* [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming platform using ActivityPub and WebTorrent.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
-* [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming platform using ActivityPub and WebTorrent.
+
 
 
 ## Credits:
