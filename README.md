@@ -59,8 +59,7 @@ A curated list about the decentralized web technologies.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Mysterium Network](https://mysterium.network/) - Open Sourced Network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
-* [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - Federated video streaming platform using P2P directly in the web browser.       
+* [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 
@@ -91,7 +90,7 @@ A curated list about the decentralized web technologies.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more.
-* [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming platform using ActivityPub and WebTorrent.
+* [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
