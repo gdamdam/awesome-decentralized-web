@@ -74,6 +74,7 @@ A curated list about the decentralized web technologies.
 * [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
 * [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
 * [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
+* [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised) secure gossip platform.
 * [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
