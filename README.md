@@ -5,13 +5,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 
 ### Blockchain infrastructure
-* [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
-* [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
-* [Ethereum](https://ethereum.org/) - "a distributed answer to HTTP POST" - it's a blockcahin-based platform for decentralized app development.
-* [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
-* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
-* [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
 
 
 ### Communication
@@ -20,14 +14,13 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat
-* [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 
 
 ### Cryptocurrencies
 * [Bitcoin](https://bitcoin.org) - It is the first decentralized digital currency, as the system works without a central bank or single administrator.
 * [Ethereum](https://ethereum.org) - Blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
 * [Monero](https://getmonero.org/) - Aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
-* [Zcash](https://z.cash/) - Open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.
+* [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of cryptocurrencies.
 
 
@@ -56,11 +49,14 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Decentralized web
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
+* [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Mysterium Network](https://mysterium.network/) - Open Sourced Network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need.
+* [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
+* [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
@@ -84,6 +80,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 
 ### Misc
+* [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
 * [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
@@ -94,6 +91,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more.
+* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
