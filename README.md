@@ -27,6 +27,7 @@ A curated list about the decentralized web technologies.
 * [Ethereum](https://ethereum.org) - Blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
 * [Monero](https://getmonero.org/) - Aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
 * [Zcash](https://z.cash/) - Open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.
+* [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of cryptocurrencies.
 
 
 ### Databases
