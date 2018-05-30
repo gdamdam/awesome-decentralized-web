@@ -10,7 +10,6 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
-* [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat
@@ -52,6 +51,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
+* [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Mysterium Network](https://mysterium.network/) - Open Sourced Network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
