@@ -98,9 +98,8 @@ A curated list about the decentralized web technologies.
 
 
 
-## Credits:
-- [Decentralized Web Summit](http://www.decentralizedweb.net/)
-- [Mouse Reeve](https://blog.mousereeve.com/technologies-of-the-decentralized-web-summit/)
+## Contributors:
+- [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
 
 
 ## License
