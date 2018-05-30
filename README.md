@@ -88,6 +88,7 @@ A curated list about the decentralized web technologies.
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
 * [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
+* [Jolocom](https://jolocom.com/) - A decentralised digital identity for everyone.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Onename](https://onename.com/) - a global database for people, companies, websites and more.
