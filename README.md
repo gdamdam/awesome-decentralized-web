@@ -49,6 +49,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 ### Decentralized web
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
+* [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
