@@ -73,7 +73,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
 * [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
 * [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
-* [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud.
+* [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
 * [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
 * [Pleroma](https://pleroma.social/) - a federated social networking platform.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised) secure gossip platform.
