@@ -47,6 +47,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 
 ### Decentralized web
+* [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
@@ -67,12 +68,14 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
 
 
-### Microblogging
+### Microblogging and Social Network
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium.
 * [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
 * [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
 * [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
+* [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud.
 * [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
+* [Pleroma](https://pleroma.social/) - a federated social networking platform.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised) secure gossip platform.
 * [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
