@@ -91,6 +91,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
+* [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
 * [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [Jolocom](https://jolocom.com/) - A decentralised digital identity for everyone.
