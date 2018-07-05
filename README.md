@@ -30,7 +30,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Data Storage and Sharing
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing.
-* [CacheP2P](http://www.cachep2p.com/) - a distributed caching platform.
+* [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [Dat Protocol](https://datproject.org/) - Versioned, encrypted, peer-to-peer protocol for distributed file sharing.
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token.
