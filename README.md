@@ -34,6 +34,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [Dat Protocol](https://datproject.org/) - Versioned, encrypted, peer-to-peer protocol for distributed file sharing.
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token.
+* [Holochain](https://github.com/holochain/holochain-proto) - a validating monotonic DHT backed by authoritative hashchains for data provenance.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orc.network/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
