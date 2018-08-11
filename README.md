@@ -15,7 +15,6 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 ### Data
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing.
 * [Dat Protocol](https://datproject.org/) - Versioned, encrypted, peer-to-peer protocol for distributed file sharing.
-* [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. `Whitepaper`
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 
 ### Web
@@ -30,6 +29,12 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 ## Applications
 *Things built with decentralized protocols and technologies.*
 
+
+### Collaboration
+* [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
+* [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
+* [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
+* [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
 
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
@@ -51,6 +56,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [Holochain](https://github.com/holochain/holochain-proto) - a validating monotonic DHT backed by authoritative hashchains for data provenance.
+* [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. `Whitepaper`
 * [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orc.network/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
@@ -85,16 +91,9 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 ### Miscellaneous
-* [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community.
-* [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
-* [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
-* [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [Jolocom](https://jolocom.com/) - A decentralised digital identity for everyone.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
-* [Onename](https://onename.com/) - a global database for people, companies, websites and more.
-* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
-* [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
 
 ### Web
@@ -102,8 +101,11 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
+* [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
+* [Onename](https://onename.com/) - a global database for people, companies, websites and more.
+* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
 * [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
