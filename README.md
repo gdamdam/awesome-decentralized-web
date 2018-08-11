@@ -38,6 +38,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Communication
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
+* [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat
 
@@ -98,7 +99,6 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Web
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
-* [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
