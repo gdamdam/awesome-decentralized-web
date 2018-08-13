@@ -27,6 +27,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
 * [GUN](https://www.gun.eco) - a small, easy, and fast data sync and storage system that runs everywhere JavaScript does.
 * [IPDB](https://ipdb.foundation/) - a federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits.
+* [Dat Base](https://datbase.org) - future-friendly apps for your research data pipeline.
 
 
 ### Data Storage and Sharing
@@ -65,10 +66,15 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - Anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
+* [Dat Project](https://datproject.org) - Dat is a nonprofit-backed data sharing protocol for applications of the future.
 
 
 ### Marketplaces
 * [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
+
+
+### Browsers
+* [Baker](https://beakerbrowser.com) is an experimental browser for exploring and building the next geberation peer-to-peer Web.
 
 
 ### Microblogging and Social Network
