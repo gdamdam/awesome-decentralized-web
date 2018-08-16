@@ -9,7 +9,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 
 ### Communication
-* [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
+* [ForgeFed](https://github.com/forgefed/forgefed) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 
 ### Data
@@ -60,7 +60,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. `Whitepaper`
 * [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
-* [ORC](https://orc.network/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
+* [ORC](https://orcproject.github.io/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
 * [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
 * [Rotonde](http://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
@@ -68,11 +68,11 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage. `Whitepaper`
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
-* [Wikipediap2p](https://www.wikipediap2p.org/) - a p2p version of wikipedia.
+* [Wikipediap2p](https://guerrerocarlos.github.io/WikiP2P.org/) - a p2p version of wikipedia.
 
 ### Media
 * [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
-* [ferment](https://github.com/mmckegg/ferment) - Peer-to-peer audio publishing and streaming application.
+* [ferment](https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
 * [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
@@ -88,7 +88,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised) secure gossip platform.
 * [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
-* [trsst](http://www.trsst.com/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
+* [trsst](https://github.com/TrsstProject/trsst) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 ### Miscellaneous
@@ -104,7 +104,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
-* [Onename](https://onename.com/) - a global database for people, companies, websites and more.
+* [Onename](https://onename.com/) - domain registar for Blockstack.
 * [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
 * [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.      
