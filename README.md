@@ -21,6 +21,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
+* [libdweb](https://github.com/mozilla/libdweb) - a community effort to implement experimental APIs enabling dweb protocols in Firefox.
 * [Mysterium Network](https://mysterium.network/) - open sourced network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need. `Whitepaper`
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
