@@ -13,15 +13,15 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 
 ### Data
-* [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing.
-* [Dat Protocol](https://datproject.org/) - Versioned, encrypted, peer-to-peer protocol for distributed file sharing.
+* [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - protocol for distributed file sharing.
+* [Dat Protocol](https://datproject.org/) - versioned, encrypted, peer-to-peer protocol for distributed file sharing.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 
 ### Web
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
-* [Mysterium Network](https://mysterium.network/) - Open Sourced Network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need. `Whitepaper`
+* [Mysterium Network](https://mysterium.network/) - open sourced network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need. `Whitepaper`
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
@@ -43,9 +43,9 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat
 
 ### Cryptocurrencies
-* [Bitcoin](https://bitcoin.org) - It is the first decentralized digital currency, as the system works without a central bank or single administrator.
-* [Ethereum](https://ethereum.org) - Blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
-* [Monero](https://getmonero.org/) - Aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
+* [Bitcoin](https://bitcoin.org) - it is the first decentralized digital currency, as the system works without a central bank or single administrator.
+* [Ethereum](https://ethereum.org) - blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
+* [Monero](https://getmonero.org/) - aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
 * [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
 
 ### Databases
@@ -58,9 +58,10 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software.
 * [Holochain](https://github.com/holochain/holochain-proto) - a validating monotonic DHT backed by authoritative hashchains for data provenance.
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. `Whitepaper`
-* [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
+* [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orcproject.github.io/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us.
+* [Peergos](https://peergos.org/) - end-to-end encrypted, peer-to-peer file storage, sharing and communication network.
 * [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
 * [Rotonde](http://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
@@ -71,7 +72,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Wikipediap2p](https://guerrerocarlos.github.io/WikiP2P.org/) - a p2p version of wikipedia.
 
 ### Media
-* [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
+* [Bit451](https://github.com/Bit451/Bit451) - decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
 * [ferment](https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
@@ -79,41 +80,42 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Microblogging and Social Network
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium.
-* [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
-* [Friendica](http://friendi.ca/) - Decentralized and federated social media platform.
-* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Decentralized and federated social media platform.
-* [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
+* [diaspora*](https://diasporafoundation.org/) - decentralized and federated social media platform.
+* [Friendica](http://friendi.ca/) - decentralized and federated social media platform.
+* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - decentralized and federated social media platform.
+* [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Patchwork](https://github.com/ssbc/patchwork) - a decentralized messaging and sharing app built on top of Secure Scuttlebutt.
 * [Pleroma](https://pleroma.social/) - a federated social networking platform.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised) secure gossip platform.
-* [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
+* [Socialhome](https://socialhome.network/) - decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [trsst](https://github.com/TrsstProject/trsst) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys.
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 ### Miscellaneous
-* [Jolocom](https://jolocom.com/) - A decentralised digital identity for everyone.
-* [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
+* [Jolocom](https://jolocom.com/) - a decentralised digital identity for everyone.
+* [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system
 
 ### Web
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
-* [I2P](https://geti2p.net/) - Anonymous network with hidden services.
+* [Handshake](https://handshake.org/) - decentralized certificate authority and naming.
+* [I2P](https://geti2p.net/) - anonymous network with hidden services.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
 * [Onename](https://onename.com/) - domain registar for Blockstack.
-* [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators.
+* [OpenBazaar](https://openbazaar.org/) - marketplace, with store fronts and moderators.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet.
-* [Steemit](https://steemit.com/) - Blogging and social networking website on top of a blockchain database.      
-* [Tor](https://www.torproject.org/) - Anonymous network proxy.
+* [Steemit](https://steemit.com/) - blogging and social networking website on top of a blockchain database.      
+* [Tor](https://www.torproject.org/) - anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 
 
 ## Related Lists
-* [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of cryptocurrencies.
+* [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of cryptocurrencies.
 * [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
 
