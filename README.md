@@ -41,6 +41,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
+* [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat
 
 ### Cryptocurrencies
