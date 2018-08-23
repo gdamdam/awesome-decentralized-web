@@ -75,6 +75,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 
 ### Media
 * [Bit451](https://github.com/Bit451/Bit451) - decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin.
+* [DTube](https://d.tube/) - decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
 * [ferment](https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
