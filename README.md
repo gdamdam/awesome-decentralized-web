@@ -116,6 +116,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Steemit](https://steemit.com/) - blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - anonymous network proxy.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
+* [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps.
 
 
 ## Related Lists
