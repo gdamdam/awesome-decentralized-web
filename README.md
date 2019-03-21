@@ -55,6 +55,7 @@ Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for t
 * [Dat Base](https://datbase.org) - future-friendly apps for your research data pipeline.
 * [GUN](https://www.gun.eco) - a small, easy, and fast data sync and storage system that runs everywhere JavaScript does.
 * [IPDB](https://ipdb.io/) - a federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits.
+* [OrbitDB](https://github.com/orbitdb/orbit-db) - p2p database engine on top of IPFS. 
 
 ### Data Storage and Sharing
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform.
