@@ -49,6 +49,8 @@ Project inavtive for a while are marked as **discontinued!**.
 * [Ethereum](https://ethereum.org) - blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
 * [Monero](https://getmonero.org/) - aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
 * [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
+* [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of cryptocurrencies.
+* [Curated list of blockchain and crytocurrency resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
@@ -119,11 +121,8 @@ Project inavtive for a while are marked as **discontinued!**.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 * [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps.
 
-
-## Related Lists
-* [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of cryptocurrencies.
-* [Curated list of Blockchain and Crytocurrency Resources in general](https://github.com/McFrankline/Blockchain-stuff)
-* [awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
+## Other Related Lists
+* [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
 
 ## Contributors
 - [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
