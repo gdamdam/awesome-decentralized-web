@@ -122,6 +122,8 @@ Projects inactive for a while are marked as **discontinued!**.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 * [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
+* [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack. 
+* [Loki](https://loki.network/) - Loki creates privacy tools that enable untraceable, secure transactions and anonymous communication.
 
 ## Other Related Lists
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
