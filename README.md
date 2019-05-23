@@ -72,6 +72,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
 * [Rotonde](http://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
+* [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
 * [Sia](http://sia.tech/) - a decentralized private cloud. `Whitepaper`
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage. `Whitepaper`
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack.
@@ -109,21 +110,21 @@ Projects inactive for a while are marked as **discontinued!**.
 ### Web
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
+* [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack. 
 * [Handshake](https://handshake.org/) - decentralized certificate authority and naming.
 * [I2P](https://geti2p.net/) - anonymous network with hidden services.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
+* [Loki](https://loki.network/) - Loki creates privacy tools that enable untraceable, secure transactions and anonymous communication.
 * [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
 * [Onename](https://onename.com/) - domain registar for Blockstack.
 * [OpenBazaar](https://openbazaar.org/) - marketplace, with store fronts and moderators.
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet. **Discontinued!**
+* [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps.
 * [Steemit](https://steemit.com/) - blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - anonymous network proxy.
-* [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
-* [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
-* [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack. 
-* [Loki](https://loki.network/) - Loki creates privacy tools that enable untraceable, secure transactions and anonymous communication.
+* [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 
 ## Other Related Lists
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
