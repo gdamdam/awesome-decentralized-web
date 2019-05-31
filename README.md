@@ -1,7 +1,7 @@
 # Awesome Decentralized Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list about the decentralized technologies and tools to develop decentralized applications.  
-Thanks to the [Decentralized Web Summit](http://www.decentralizedweb.net/) for the inspiration.
+Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for the inspiration.
 
 Projects inactive for a while are marked as **discontinued!**.
 
@@ -39,7 +39,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
 
 ### Communication
-* [BitMessage](https://en.wikipedia.org/wiki/Bitmessage) - anonymous encrypted message broadcasting.
+* [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
@@ -70,10 +70,10 @@ Projects inactive for a while are marked as **discontinued!**.
 * [ORC](https://orcproject.github.io/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued!**
 * [Peergos](https://peergos.org/) - end-to-end encrypted, peer-to-peer file storage, sharing and communication network.
 * [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
-* [Rotonde](http://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
+* [Rotonde](https://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
 * [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
-* [Sia](http://sia.tech/) - a decentralized private cloud. `Whitepaper`
+* [Sia](https://sia.tech/) - a decentralized private cloud. `Whitepaper`
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage. `Whitepaper`
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
@@ -90,7 +90,7 @@ Projects inactive for a while are marked as **discontinued!**.
 ### Microblogging and Social Network
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium. **Discontinued!**
 * [diaspora*](https://diasporafoundation.org/) - decentralized and federated social media platform.
-* [Friendica](http://friendi.ca/) - decentralized and federated social media platform.
+* [Friendica](https://friendi.ca/) - decentralized and federated social media platform.
 * [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - decentralized and federated social media platform.
 * [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Patchwork](https://github.com/ssbc/patchwork) - a decentralized messaging and sharing app built on top of Secure Scuttlebutt.
@@ -115,7 +115,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [I2P](https://geti2p.net/) - anonymous network with hidden services.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [Loki](https://loki.network/) - Loki creates privacy tools that enable untraceable, secure transactions and anonymous communication.
-* [MaidSafe](http://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
+* [MaidSafe](https://maidsafe.net/) - a soon-to-be-released decentralized internet and app infrastructure which rewards users for participating in the network.
 * [Namecoin](https://namecoin.info/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
 * [Onename](https://onename.com/) - domain registar for Blockstack.
 * [OpenBazaar](https://openbazaar.org/) - marketplace, with store fronts and moderators.
@@ -134,4 +134,4 @@ Projects inactive for a while are marked as **discontinued!**.
 
 
 ## License
- [![CC4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+ [![CC4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
