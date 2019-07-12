@@ -126,6 +126,9 @@ Projects inactive for a while are marked as **discontinued!**.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
 
+### Organizations
+* [Federated Networks Association](https://feneas.org) - Non-profit volunteer organization that aims to spread knowledge about federated web projects and help people and projects involved in this area.
+
 ## Other Related Lists
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
 
