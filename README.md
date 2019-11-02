@@ -124,7 +124,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Steemit](https://steemit.com/) - blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - anonymous network proxy.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
-* [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin blockchain for addressing, and identity and Namecoin for .bit domains.
+* [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains.
 
 ## Other Related Lists
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
