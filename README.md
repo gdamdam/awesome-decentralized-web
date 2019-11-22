@@ -61,6 +61,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [OrbitDB](https://github.com/orbitdb/orbit-db) - p2p database engine on top of IPFS. 
 
 ### Data Storage and Sharing
+* [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
 * [Holochain](https://github.com/holochain/holochain-proto) - a validating monotonic DHT backed by authoritative hashchains for data provenance.
