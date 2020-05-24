@@ -58,7 +58,8 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Dat Base](https://datbase.org) - future-friendly apps for your research data pipeline.
 * [GUN](https://www.gun.eco) - a small, easy, and fast data sync and storage system that runs everywhere JavaScript does.
 * [IPDB](https://ipdb.io/) - a federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits.
-* [OrbitDB](https://github.com/orbitdb/orbit-db) - p2p database engine on top of IPFS. 
+* [OrbitDB](https://github.com/orbitdb/orbit-db) - p2p database engine on top of IPFS.
+* [AvionDB](https://github.com/dappkit/aviondb) - mongodb-like database on top of OrbitDB.
 
 ### Data Storage and Sharing
 * [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
