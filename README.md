@@ -92,7 +92,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium. **Discontinued!**
 * [diaspora*](https://diasporafoundation.org/) - decentralized and federated social media platform.
 * [Friendica](https://friendi.ca/) - decentralized and federated social media platform.
-* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - decentralized and federated social media platform.
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - decentralized and federated social media platform.
 * [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Patchwork](https://github.com/ssbc/patchwork) - a decentralized messaging and sharing app built on top of Secure Scuttlebutt.
 * [Pleroma](https://pleroma.social/) - a federated social networking platform.
