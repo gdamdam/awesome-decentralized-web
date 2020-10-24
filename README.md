@@ -37,6 +37,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
+* [Radicle](https://radicle.xyz/) - secure peer-to-peer code collaboration without intermediaries.
 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
@@ -108,6 +109,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system **Discontinued!**
+* [Dark Crystal](https://darkcrystal.pw/) - set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys.
 
 ### Web
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
