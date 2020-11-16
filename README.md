@@ -130,6 +130,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Tor](https://www.torproject.org/) - anonymous network proxy.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains.
+* [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support. 
 
 ## Other Related Lists
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
