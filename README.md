@@ -52,6 +52,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Ethereum](https://ethereum.org) - blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
 * [Monero](https://getmonero.org/) - aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
 * [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
+* [Duniter](http://duniter.org/) - a blockchain engine for libre currencies
 * [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of cryptocurrencies.
 * [Curated list of blockchain and crytocurrency resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
