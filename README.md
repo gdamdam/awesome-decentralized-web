@@ -90,6 +90,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
 * [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
 * [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
+* [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
 
 ### Microblogging and Social Network
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium. **Discontinued!**
