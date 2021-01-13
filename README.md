@@ -67,19 +67,20 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
-* [Holochain](https://github.com/holochain/holochain-proto) - a validating monotonic DHT backed by authoritative hashchains for data provenance.
 * [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. `Whitepaper`
+* [Holochain](https://github.com/holochain/holochain-proto) - a validating monotonic DHT backed by authoritative hashchains for data provenance.
 * [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
-* [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orcproject.github.io/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued!**
+* [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [Peergos](https://peergos.org/) - end-to-end encrypted, peer-to-peer file storage, sharing and communication network.
 * [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
 * [Rotonde](https://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network. 
-* [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
-* [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
+* [Send](https://github.com/timvisee/send) - simple, private, end-to-end encrypted, self hostable file sharing originally from Mozilla.
 * [Sia](https://sia.tech/) - a decentralized private cloud. `Whitepaper`
 * [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage. `Whitepaper`
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack.
+* [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
+* [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
 * [Wikipediap2p](https://guerrerocarlos.github.io/WikiP2P.org/) - a p2p version of wikipedia. **Discontinued!**
 
