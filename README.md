@@ -41,7 +41,7 @@ Projects inactive for a while are marked as **discontinued!**.
 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
-* [Berty](https://github.com/berty/berty) - Berty is an anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
+* [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
