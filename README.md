@@ -48,6 +48,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
 * [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
+* [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
 
 ### Cryptocurrencies
