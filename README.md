@@ -101,6 +101,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - decentralized and federated social media platform.
 * [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Patchwork](https://github.com/ssbc/patchwork) - a decentralized messaging and sharing app built on top of Secure Scuttlebutt.
+* [Manyverse](https://www.manyver.se/) - An iOS and Android mobile app for the decentralized messaging and sharing app built on top of Secure Scuttlebutt
 * [Pleroma](https://pleroma.social/) - a federated social networking platform.
 * [Socialhome](https://socialhome.network/) - decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. **Discontinued!**
