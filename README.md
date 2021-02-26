@@ -16,6 +16,7 @@ Projects inactive for a while are marked as **discontinued!**.
 
 ### Data
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - protocol for distributed file sharing.
+* [Earthstar](https://github.com/earthstar-project/earthstar) - a toolkit for making collaborative decentralized apps -- a data format & syncing protocol
 * [Hypercore Protocol](https://hypercore-protocol.org/) - a fast, scalable, and secure peer-to-peer protocol for everyone (evoution of the [Dat Protocol](https://datproject.org))
 * [Holochain](https://github.com/holochain/holochain) - a peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
