@@ -28,6 +28,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [libdweb](https://github.com/mozilla/libdweb) - a community effort to implement experimental APIs enabling dweb protocols in Firefox.
 * [Mysterium Network](https://mysterium.network/) - open sourced network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need. `Whitepaper`
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
+* [Webnative](https://fission.codes/) - JavaScript library that decouples user data from apps and hosts it on IPFS.
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
 
