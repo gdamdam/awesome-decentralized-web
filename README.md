@@ -34,7 +34,7 @@ Projects inactive for a while are marked as **discontinued!**.
 
 
 ## Applications
-* [DataToken](https://github.com/ownership-labs/DataToken) - A decentralized access control system for data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while trading the computing rights of data.
+* [DataToken](https://github.com/ownership-labs/DataToken) - decentralized access control for data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while trading the computing rights of data.
 
 ### Collaboration
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community. **Discontinued!**
