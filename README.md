@@ -111,6 +111,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. **Discontinued!**
 * [trsst](https://github.com/TrsstProject/trsst) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. **Discontinued!**
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
+* [FoxQL-app](https://foxql.com) - decentralized social network that runs on your browser. It does not require any setup or registration.
 
 ### Miscellaneous
 * [Jolocom](https://jolocom.com/) - a decentralised digital identity for everyone.
