@@ -54,11 +54,7 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
 
-### Cryptocurrencies
-* [Bitcoin](https://bitcoin.org) - it is the first decentralized digital currency, as the system works without a central bank or single administrator.
-* [Ethereum](https://ethereum.org) - blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It provides a decentralized Turing-complete virtual machine
-* [Monero](https://getmonero.org/) - aims to improve on existing cryptocurrency design by obscuring sender, recipient and amount of every transaction.
-* [Zcash](https://z.cash/) - a cryptocurrency built for total privacy. Zcash encrypts transactions so that they can be validated while still private.
+### Crypto-"currencies"
 * [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of cryptocurrencies.
 * [Curated list of blockchain and crytocurrency resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
