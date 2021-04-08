@@ -54,10 +54,6 @@ Projects inactive for a while are marked as **discontinued!**.
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
 
-### Crypto-"currencies"
-* [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of cryptocurrencies.
-* [Curated list of blockchain and crytocurrency resources in general](https://github.com/McFrankline/Blockchain-stuff)
-
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
 * [Dat Base](https://datbase.org) - future-friendly apps for your research data pipeline.
@@ -138,7 +134,9 @@ Projects inactive for a while are marked as **discontinued!**.
 * [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
 
 ## Other Related Lists
+* [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of crypto-"currencies".
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
+* [Curated list of blockchain and crytocurrency resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
 ## Contributors
 - [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
