@@ -3,7 +3,6 @@
 A curated list about the decentralized technologies and tools to develop decentralized applications.  
 Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for the inspiration.
 
-Projects inactive for a while are marked as **discontinued!**.
 
 ## Protocols and Technologies
 *Tools for building a decentralized web.*
