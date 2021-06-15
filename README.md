@@ -53,6 +53,8 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
+* [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
+* [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
 
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
@@ -132,6 +134,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains.
 * [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
+* [Infura](https://infura.io/) - blockchain development suite(using Ethereum, IPFS, Filecoin...)
 
 ## Other Related Lists
 * [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of crypto-"currencies".
