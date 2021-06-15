@@ -42,6 +42,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
 * [Radicle](https://radicle.xyz/) - secure peer-to-peer code collaboration without intermediaries.
+* [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
