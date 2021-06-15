@@ -30,6 +30,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Webnative](https://fission.codes/) - JavaScript library that decouples user data from apps and hosts it on IPFS.
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
+* [Infura](https://infura.io/) - blockchain development suite(using Ethereum, IPFS, Filecoin...)
 
 
 ## Applications
@@ -134,7 +135,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains.
 * [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
-* [Infura](https://infura.io/) - blockchain development suite(using Ethereum, IPFS, Filecoin...)
+
 
 ## Other Related Lists
 * [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of crypto-"currencies".
