@@ -44,6 +44,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
 * [Radicle](https://radicle.xyz/) - secure peer-to-peer code collaboration without intermediaries.
 * [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
+* [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
