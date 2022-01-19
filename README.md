@@ -3,6 +3,8 @@
 A curated list about the decentralized technologies and tools to develop decentralized applications.  
 Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for the inspiration.
 
+Please do not submit PR with pseudo currencies, cryptocoins and NFTs.
+
 
 ## Protocols and Technologies
 *Tools for building a decentralized web.*
@@ -23,7 +25,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 ### Web
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
-* [Interledger](https://interledger.org/) - it interconnects disparate cryptocurrencies and financial systems.
 * [libdweb](https://github.com/mozilla/libdweb) - a community effort to implement experimental APIs enabling dweb protocols in Firefox.
 * [Mysterium Network](https://mysterium.network/) - open sourced network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need. `Whitepaper`
 * [remoteStorage](https://remotestorage.io/) - An open protocol for decoupling data from apps.
@@ -66,7 +67,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
-* [Filecoin](https://filecoin.io/) - a decentralized storage network based on IPFS, powered by a blockchain and a native token. `Whitepaper`
 * [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orcproject.github.io/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued!**
@@ -134,9 +134,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
 
 ## Other Related Lists
-* [Awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - a curated list of crypto-"currencies".
 * [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
-* [Curated list of blockchain and crytocurrency resources in general](https://github.com/McFrankline/Blockchain-stuff)
 
 ## Contributors
 - [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
