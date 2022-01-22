@@ -3,7 +3,7 @@
 A curated list about the decentralized technologies and tools to develop decentralized applications.  
 Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for the inspiration.
 
-Please do not submit PR with pseudo currencies, cryptocoins and NFTs.
+Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and finance related projects. 
 
 
 ## Protocols and Technologies
