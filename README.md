@@ -68,6 +68,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
 * [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
+* [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
 * [ORC](https://orcproject.github.io/) - the Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued!**
 * [Peergos](https://peergos.org/) - end-to-end encrypted, peer-to-peer file storage, sharing and communication network.
