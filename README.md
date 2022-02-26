@@ -21,6 +21,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [Hypercore Protocol](https://hypercore-protocol.org/) - a fast, scalable, and secure peer-to-peer protocol for everyone (evoution of the [Dat Protocol](https://datproject.org))
 * [Holochain](https://github.com/holochain/holochain) - a peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
+* [Tableland](https://tableland.xyz) - a decentralized metadata layer for NFTs powered by relational tables & SQL.
 
 ### Web
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
