@@ -31,7 +31,6 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [Solid](https://solid.mit.edu/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Webnative](https://fission.codes/) - JavaScript library that decouples user data from apps and hosts it on IPFS.
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
-* [Infura](https://infura.io/) - blockchain development suite(using Ethereum, IPFS, Filecoin...)
 
 
 ## Applications
