@@ -69,6 +69,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 ### Data Storage and Sharing
 * [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
+* [Filebase](https://filebase.com): S3-compatible decentralized object storage platform powered by IPFS, Sia, Skynet and Storj.
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
 * [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
 * [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
