@@ -53,6 +53,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
 * [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
 * [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
+* [Meshenger](https://github.com/meshenger-app/meshenger-android) - Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
 * [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
