@@ -70,6 +70,8 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
+* [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - a mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes.
+* [Encrypted Data Vaults](https://identity.foundation/edv-spec/) - a privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. 
 * [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
 * [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
 * [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
