@@ -14,6 +14,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [ForgeFed](https://github.com/forgefed/forgefed) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised), offline-friendly secure gossip protocol.
+* [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### Data
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - protocol for distributed file sharing.
