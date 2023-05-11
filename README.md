@@ -11,6 +11,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 
 
 ### Communication
+* [AT Protocol](https://github.com/bluesky-social/atproto) - AT Protocol (Authenticated Transfer Protocol)
 * [ForgeFed](https://github.com/forgefed/forgefed) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised), offline-friendly secure gossip protocol.
@@ -47,7 +48,6 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
 
 ### Communication
-* [AT Protocol](https://github.com/bluesky-social/atproto) - AT Protocol (Authenticated Transfer Protocol)
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
 * [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
