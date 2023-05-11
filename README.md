@@ -47,6 +47,7 @@ Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and fina
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
 
 ### Communication
+* [AT Protocol](https://github.com/bluesky-social/atproto) - AT Protocol (Authenticated Transfer Protocol)
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
 * [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
