@@ -25,6 +25,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 
 ### Web
+* [decentrealizedweb](https://www.decentrealizedweb.xyz/) - Decentrealized Web is more secure and user-controlled internet by building a decentralized web infrastructure with AES-256 encryption and permanent storage in the URL.
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [libdweb](https://github.com/mozilla/libdweb) - a community effort to implement experimental APIs enabling dweb protocols in Firefox.
