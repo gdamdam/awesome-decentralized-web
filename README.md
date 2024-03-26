@@ -52,11 +52,12 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting.
 * [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun.
-* [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship.
+* [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship. **Discontinued!**
 * [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
 * [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
+* [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
 * [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
 * [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
 
