@@ -60,6 +60,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
 * [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
 * [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
+* [Vector](https://vectorapp.io) - No KYC, E2EE, Decentralized, Censorship-Resistant, No Metadata.
 
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data.
