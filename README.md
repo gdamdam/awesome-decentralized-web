@@ -6,6 +6,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 ***Please do not submit PR with pseudo currencies, cryptocoins, NFTs, DAOs and finance related projects.***
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for decentralized web workflow orchestration, automated Web3 infrastructure management, and multi-agent coordination. MIT licensed.
 ## Protocols and Technologies
 *Tools for building a decentralized web.*
 
