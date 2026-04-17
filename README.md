@@ -115,6 +115,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ### Miscellaneous
 * [Jolocom](https://jolocom.com/) - a decentralised digital identity for everyone.
+* [OZC](https://github.com/joemekw-code/ozc) - on-chain information trust protocol on Base; individuals stake on URLs/claims to create a community-verified trust index that AI agents can query.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system **Discontinued!**
