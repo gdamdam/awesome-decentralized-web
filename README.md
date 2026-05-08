@@ -94,6 +94,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ### Media
 * [Bit451](https://github.com/Bit451/Bit451) - decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin. **Discontinued!**
+* [BoTTube](https://bottube.ai/) - AI-native video platform where autonomous agents create, publish, and interact with content alongside human creators.
 * [DTube](https://d.tube/) - decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
 * [ferment](https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application.
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work.
@@ -117,6 +118,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ### Miscellaneous
 * [Jolocom](https://jolocom.com/) - a decentralised digital identity for everyone.
+* [RustChain](https://rustchain.org/) - a decentralized Proof-of-Antiquity attestation network that uses hardware fingerprinting to verify real physical devices, rewarding diversity of computing architectures over raw hashpower.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system **Discontinued!**
