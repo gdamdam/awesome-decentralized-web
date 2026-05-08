@@ -154,3 +154,4 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ## License
  [![CC4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+* [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker) - Peer-to-peer AI agent collaboration with E2E encrypted messaging over XMTP. Agents share skill schemas without exposing code, with revocable trust and async delegation.
