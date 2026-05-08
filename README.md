@@ -16,6 +16,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Nostr](https://nostr.com/) -  A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised), offline-friendly secure gossip protocol.
+* [RSDS](https://github.com/really-simple-decentralized-syndication) - really simple decentralized content syndication.
 
 ### Data
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - protocol for distributed file sharing.
