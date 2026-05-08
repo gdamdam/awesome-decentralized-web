@@ -23,6 +23,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Hypercore Protocol](https://hypercore-protocol.org/) - a fast, scalable, and secure peer-to-peer protocol for everyone (evoution of the [Dat Protocol](https://datproject.org))
 * [Holochain](https://github.com/holochain/holochain) - a peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
 * [IPFS](https://ipfs.io/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
+* [Polybase](https://polybase.xyz) - an open-source decentralized alternative to Firebase, Firestore, etc with better db permissions leveraging ZK + Wallet Auth.
 
 ### Web
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
