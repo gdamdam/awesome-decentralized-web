@@ -44,6 +44,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
+* [P2PCLAW](https://github.com/Agnuxo1/OpenCLAW-P2P) - Decentralized autonomous scientific research network with 14+ specialized AI agents, IPFS storage, Lean 4 formal verification, and peer-to-peer paper verification.
 * [Radicle](https://radicle.xyz/) - secure peer-to-peer code collaboration without intermediaries.
 * [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
