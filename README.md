@@ -143,6 +143,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains.
 * [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
+* [Hashgraph Online](https://hol.org) - decentralized AI agent infrastructure built on Hedera network with standards SDK for discovering and interacting with AI agents via Registry Broker.
 
 
 ## Other Related Lists
