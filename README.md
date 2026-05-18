@@ -13,6 +13,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 ### Communication
 * [AT Protocol](https://github.com/bluesky-social/atproto) - AT Protocol (Authenticated Transfer Protocol)
 * [ForgeFed](https://github.com/forgefed/forgefed) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
+* [Hashiverse](https://github.com/hashiverse/hashiverse) - a X/Twitter-like open-source protocol where identities are cryptographic keys generated on-device and posts are stored across a decentralized DHT of volunteer-run servers. Post-quantum-ready, no algorithmic curation, no ads, no owners, no blockchain.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Nostr](https://nostr.com/) -  A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised), offline-friendly secure gossip protocol.
@@ -105,6 +106,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium. **Discontinued!**
 * [diaspora*](https://diasporafoundation.org/) - decentralized and federated social media platform.
 * [Friendica](https://friendi.ca/) - decentralized and federated social media platform.
+* [Hashiverse](https://www.hashiverse.com) - an open-source decentralized X/Twitter replacement. Web client for the Hashiverse P2P protocol. Open-source, no owners, no ads, no algorithmic feeds.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - decentralized and federated social media platform.
 * [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Patchwork](https://github.com/ssbc/patchwork) - a decentralized messaging and sharing app built on top of Secure Scuttlebutt.
