@@ -126,6 +126,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Agregore](https://agregore.mauve.moe/) - A minimal web browser for the distributed web. Supports IPFS, Hypercore Protocol + more.
 * [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
 * [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix.
+* [Ecency](https://ecency.com/) - open-source blogging and social platform with web and mobile apps, built on the decentralized Hive network.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack.
 * [Handshake](https://handshake.org/) - decentralized certificate authority and naming.
