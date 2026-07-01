@@ -1,5 +1,9 @@
 # Awesome Decentralized Web [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+***Status: This repository is in maintenance mode. I no longer actively curate submissions. Critical fixes are welcome, but new additions may take a long time to review.***
+
+
 A curated list about the decentralized technologies and tools to develop decentralized applications.  
 Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for the inspiration.
 
