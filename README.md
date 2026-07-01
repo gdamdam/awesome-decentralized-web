@@ -5,6 +5,11 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ***Please do not submit PR with pseudo currencies, blockchain, cryptocoins, NFTs, DAOs and finance related projects.***
 
+***Before submitting:***
+- Explain why this project is specifically relevant to decentralized web.
+- Do not submit general AI tools.
+- Commercial products without significant open-source or decentralized relevance will be closed.
+
 
 ## Protocols and Technologies
 *Tools for building a decentralized web.*
