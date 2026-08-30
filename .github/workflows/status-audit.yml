@@ -1,0 +1,54 @@
+name: Quarterly status audit
+
+on:
+  schedule:
+    # First day of each quarter, 06:00 UTC
+    - cron: '0 6 1 1,4,7,10 *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Audit project status (archival, pushes, releases, domains)
+        id: audit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 .github/scripts/status_audit.py && echo "findings=0" >> "$GITHUB_OUTPUT" \
+            || echo "findings=1" >> "$GITHUB_OUTPUT"
+
+      - name: Update or create the persistent audit issue
+        if: steps.audit.outputs.findings == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label status-audit \
+                --state open --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then
+            gh issue edit "$n" --repo "$GITHUB_REPOSITORY" --body-file status-report.md
+            gh issue comment "$n" --repo "$GITHUB_REPOSITORY" \
+              --body "Report refreshed by the quarterly audit on $(date -u +%Y-%m-%d)."
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" \
+              --title 'Quarterly status audit: projects to review' \
+              --body-file status-report.md --label status-audit
+          fi
+
+      - name: Close the audit issue when everything is healthy
+        if: steps.audit.outputs.findings == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label status-audit \
+                --state open --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" \
+              --comment "All projects healthy as of $(date -u +%Y-%m-%d). Closing."
+          fi
