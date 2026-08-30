@@ -125,6 +125,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - P2p database engine on top of IPFS.
 
 ### Anonymity & Overlay Networks
+- [Hidden Lake](https://github.com/number571/hidden-lake) - Anonymous friend-to-friend network with theoretical provability against a global observer, built on queue-based messaging.
 - [Hyphanet](https://www.hyphanet.org/) - Formerly Freenet, a network aimed at activists and people living in repressive regimes (the new [Freenet](https://freenet.org/) is a separate rewrite by the same founder). It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 - [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 - [Tor](https://www.torproject.org/) - Anonymous network proxy.
