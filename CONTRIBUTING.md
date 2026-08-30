@@ -16,6 +16,7 @@ A project must meet **all** of these:
 These are closed without review, regardless of technical merit:
 
 - **Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi** and finance-related projects — including otherwise-decentralized projects whose operation depends on a token.
+  - *What the exclusion targets is token economics, not cryptographic technique.* A project that merely uses an existing blockchain as a neutral public record — with no token of its own, nothing to buy or speculate on, and no financial incentive layer — can qualify if the result is objectively useful infrastructure. [OpenTimestamps](https://opentimestamps.org/) is the canonical example: it anchors document hashes into Bitcoin to provide free, trustless timestamping for everyone. Holochain qualifies on different grounds: agent-centric design with no global ledger and no token required by the protocol itself.
 - **AI tools, agent frameworks, and "decentralized AI"** platforms.
 - **Closed-source commercial products** without significant open-source or decentralized relevance.
 - **AI-generated ("vibe-coded") projects without demonstrated adoption** — a working demo is not adoption; see the criteria above.
