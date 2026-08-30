@@ -50,7 +50,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ### Collaboration
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community. **Discontinued!**
-* [bitnation.co](https://bitnation.co) - the World’s First Virtual Nation – A Blockchain Jurisdiction.
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt.
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs.
 * [Radicle](https://radicle.xyz/) - secure peer-to-peer code collaboration without intermediaries.
@@ -125,7 +124,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
 
 ### Miscellaneous
-* [Jolocom](https://jolocom.com/) - a decentralised digital identity for everyone.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system **Discontinued!**
@@ -133,7 +131,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ### Web
 * [Agregore](https://agregore.mauve.moe/) - A minimal web browser for the distributed web. Supports IPFS, Hypercore Protocol + more.
-* [Beaker](https://beakerbrowser.com/) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts.
+* [Beaker](https://github.com/beakerbrowser/beaker) - Beaker is a peer-to-peer Web browser, made for users to run applications independently of hosts. **Discontinued!**
 * [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix.
 * [Freenet](https://freenetproject.org/)- a network aimed at activists and people living in repressive regimes. It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack.
