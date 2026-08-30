@@ -35,9 +35,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 ### Web
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
-* [Blockstack](https://blockstack.org/) - Blockstack is a new fully decentralized internet that comes with a full stack of open-source developer tools to build and bootstrap decentralized applications and protocol ecosystems.
 * [libdweb](https://github.com/mozilla/libdweb) - a community effort to implement experimental APIs enabling dweb protocols in Firefox. **Discontinued!**
-* [Mysterium Network](https://mysterium.network/) - open sourced network allowing anyone to rent their unused Network traffic, while providing a secure connection for those in need. `Whitepaper`
 * [remoteStorage](https://remotestorage.io/) - An open protocol for decoupling data from apps.
 * [Solid](https://solidproject.org/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 * [Webnative](https://fission.codes/) - JavaScript library that decouples user data from apps and hosts it on IPFS. **Discontinued!** (Fission shut down in 2024)
@@ -78,7 +76,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [AvionDB](https://github.com/dappkit/aviondb) - mongodb-like database on top of OrbitDB. **Discontinued!**
 
 ### Data Storage and Sharing
-* [Arweave](https://www.arweave.org/) - A Protocol for Economically SustainableInformation Permanence.
 * [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - a distributed caching platform. **Discontinued!**
 * [Cryptosphere](https://cryptosphere.io/) - an open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
 * [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - a mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes.
@@ -92,15 +89,12 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Rotonde](https://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
 * [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
-* [Sia](https://sia.tech/) - a decentralized private cloud. `Whitepaper`
-* [Storj](https://storj.io/) - a blockchain-based, end-to-end encrypted, distributed object storage. `Whitepaper`
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack. **Discontinued!** (repository archived)
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
 * [Wikipediap2p](https://guerrerocarlos.github.io/WikiP2P.org/) - a p2p version of wikipedia. **Discontinued!**
 
 ### Media
 * [Bit451](https://github.com/Bit451/Bit451) - decentralized / distributed anonymous p2p media network. YouTube meets BitTorrent meets Bitcoin. **Discontinued!**
-* [DTube](https://d.tube/) - decentralized video platform, built on top of the STEEM Blockchain and the IPFS peer-to-peer network.
 * [ferment](https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application. **Discontinued!** (repository deleted)
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work. **Discontinued!** (acquired by Spotify in 2017)
 * [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
@@ -133,21 +127,17 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix.
 * [Hyphanet](https://www.hyphanet.org/) - formerly Freenet, a network aimed at activists and people living in repressive regimes (the new [Freenet](https://freenet.org/) is a separate rewrite by the same founder). It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
 * [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack.
-* [Handshake](https://handshake.org/) - decentralized certificate authority and naming.
 * [I2P](https://geti2p.net/) - anonymous network with hidden services.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
 * [Session](https://getsession.org/) - onion-routed private messenger that minimizes metadata (formerly the Loki project).
 * [Autonomi](https://autonomi.com/) - decentralized internet and app infrastructure which rewards users for participating in the network (formerly MaidSafe / SAFE Network).
-* [Namecoin](https://www.namecoin.org/) - a replacement for the existing domain name system that registers identities on a blockchain, rather than a centralized DNS authority.
 * [Onename](https://onename.com/) - domain registar for Blockstack. **Discontinued!**
 * [OpenBazaar](https://openbazaar.org/) - marketplace, with store fronts and moderators. **Discontinued!** (shut down in 2021)
 * [Samizdat](http://samizdat.childrenofmay.org/) - Samizdat is a platform for the self-hosted, peer-to-peer, cryptographically-secured internet. **Discontinued!**
 * [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps. **Discontinued!**
-* [Steemit](https://steemit.com/) - blogging and social networking website on top of a blockchain database.      
 * [Tor](https://www.torproject.org/) - anonymous network proxy.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 * [ZeroNet](https://zeronet.io/) - a peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains. **Discontinued!** (community fork: [zeronet-conservancy](https://github.com/zeronet-conservancy/zeronet-conservancy))
-* [ArcBlock](https://www.arcblock.io/) - a decentralized platform to build, run and deploy DApps, blockchains and websites on any infrastructure with integrated decentralized identity and multi-chain support.
 
 
 ## Other Related Lists
