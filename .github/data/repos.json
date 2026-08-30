@@ -29,7 +29,7 @@
  "Named Data Networking": "named-data/NFD",
  "Nostr": "nostr-protocol/nips",
  "OnionShare": "onionshare/onionshare",
- "OpenTimeStamps": "opentimestamps/opentimestamps-client",
+ "OpenTimestamps": "opentimestamps/opentimestamps-client",
  "Owncast": "owncast/owncast",
  "Pear": "holepunchto/pear",
  "PeerTube": "Chocobozzz/PeerTube",

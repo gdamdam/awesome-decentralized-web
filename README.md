@@ -7,7 +7,7 @@ Thanks to the [Decentralized Web Summit](https://web.archive.org/web/2018/https:
 **Scope.** This list is about the *decentralized web*: peer-to-peer protocols, federated applications, and distributed data — projects where decentralization is the core design, not a feature or a marketing claim.
 
 **Out of scope — submissions will be closed without review:**
-- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects.
+- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects. (Merely *using* an existing Blockchain as a neutral public record, with no token of its own, can qualify — see the contributing guide below.)
 - AI tools, agent frameworks, and "decentralized AI" platforms.
 - Commercial products without significant open-source or decentralized relevance.
 
@@ -15,7 +15,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
 Entries marked **Dormant** still work but have seen no meaningful development for roughly 2 years; dead projects live in the Graveyard section at the bottom.
 
-**A quick taxonomy.** *Federated* systems (Mastodon, Matrix, XMPP) are many independently operated servers interoperating through a shared protocol — you choose which server to trust instead of trusting a central one. *Peer-to-peer* systems (BitTorrent, Scuttlebutt, Tox) have no servers at all: every participant connects directly and carries part of the infrastructure. *Distributed* only means data or computation is spread across many machines — centralized services can be distributed too; a distributed system is decentralized only when no single party controls it. *Local-first* software (built with Automerge, Yjs or Willow) keeps the authoritative copy of your data on your own device and treats the network as optional, syncing when connectivity allows.
+**A quick taxonomy.** *Federated* systems (Mastodon, Matrix, XMPP) are many independently operated servers interoperating through a shared protocol — you choose which server to trust instead of trusting a central one. *Peer-to-peer* systems (BitTorrent, Scuttlebutt, Tox) exchange data directly between participants without requiring a single authoritative application server — though trackers, bootstrap nodes or relays may assist. *Distributed* only means data or computation is spread across many machines — centralized services can be distributed too; a distributed system is decentralized only when no single party controls it. *Local-first* software (built with Automerge, Yjs or Willow) keeps the authoritative copy of your data on your own device and treats the network as optional, syncing when connectivity allows.
 
 ## Contents
 
@@ -152,7 +152,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [Peergos](https://peergos.org/) - End-to-end encrypted, peer-to-peer file storage, sharing and communication network.
 - [Perkeep](https://perkeep.org/) - Set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
 - [Syncthing](https://syncthing.net/) - Continuous peer-to-peer file synchronization between devices, without any central server.
-- [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - A private, encrypted file storage system that decentralizes data across multiple servers.
+- [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs) - A private, encrypted file storage system that decentralizes data across multiple servers.
 - [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
 - [WebTorrent](https://webtorrent.io/) - An in-browser torrenting that works without requiring users to install anything extra.
 
@@ -161,7 +161,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Peer-to-peer database engine on top of IPFS.
 
 ### Anonymity & Overlay Networks
-- [Hidden Lake](https://github.com/number571/hidden-lake) - Anonymous friend-to-friend network with theoretical provability against a global observer, built on queue-based messaging.
+- [Hidden Lake](https://github.com/number571/hidden-lake) - Anonymous friend-to-friend network built on queue-based messaging, designed to resist traffic analysis even by a global observer.
 - [Hyphanet](https://www.hyphanet.org/) - Formerly Freenet, a network aimed at activists and people living in repressive regimes (the new [Freenet](https://freenet.org/) is a separate rewrite by the same founder). It uses a web of trust in high security mode, which makes users on the network very difficult to detect.
 - [I2P](https://geti2p.net/) - Anonymous network with hidden services.
 - [Tor](https://www.torproject.org/) - Anonymous network proxy.
@@ -176,7 +176,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ### Identity & Key Management
 - [Dark Crystal](https://darkcrystal.pw/) - Set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys. **Dormant**
 - [Keyoxide](https://keyoxide.org/) - Decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
-- [OpenTimeStamps](https://opentimestamps.org/) - A standard format for Blockchain timestamping.
+- [OpenTimestamps](https://opentimestamps.org/) - A standard format for Blockchain timestamping.
 
 ### Miscellaneous
 - [Librem](https://librem.one) - A growing bundle of ethical services by Purism.
