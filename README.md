@@ -37,14 +37,17 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
 ### Application Frameworks
+- [Freenet](https://freenet.org/) - A decentralized, real-time platform for building and running applications entirely on a peer-to-peer network; a ground-up rewrite by the original Freenet founder (the classic Freenet lives on as Hyphanet).
 - [Holochain](https://github.com/holochain/holochain) - A peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
 - [Spritely](https://spritely.institute/) - Distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
 - [Veilid](https://veilid.com/) - An open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
+- [WebXDC](https://webxdc.org/) - A specification for portable web apps that run inside chat messages and sync over any transport, with no server of their own.
 
 ### Local-first & CRDTs
 - [Automerge](https://automerge.org/) - A CRDT library for building local-first, collaborative applications that sync without a central server.
 - [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in p2p software. **Dormant**
 - [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
+- [p2panda](https://p2panda.org/) - A collection of building blocks for local-first, peer-to-peer applications.
 - [Willow](https://willowprotocol.org/) - A protocol for synchronisable, multi-writer data stores, by the authors of Earthstar.
 - [Yjs](https://yjs.dev/) - A high-performance CRDT for building collaborative, offline-first applications.
 
@@ -64,6 +67,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 *Things built with decentralized protocols and technologies.*
 
 ### Social Networks (Fediverse & beyond)
+- [Akkoma](https://akkoma.social/) - Actively developed fork of Pleroma, a lightweight federated social networking server on ActivityPub.
 - [Bluesky](https://bsky.app/) - Decentralized social network built on the AT Protocol, with self-hostable personal data servers.
 - [BookWyrm](https://joinbookwyrm.com/) - Federated social reading and book reviews, on ActivityPub.
 - [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform. **Dormant**
@@ -73,16 +77,21 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [Lemmy](https://join-lemmy.org/) - Federated link aggregator and discussion forum, on ActivityPub.
 - [Manyverse](https://www.manyver.se/) - An iOS and Android mobile app for the decentralized messaging and sharing app built on top of Secure Scuttlebutt. **Dormant**
 - [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
+- [Mbin](https://joinmbin.org/) - Federated content aggregator and microblogging platform (community fork of /kbin), on ActivityPub.
+- [Misskey](https://misskey-hub.net/) - Feature-rich federated microblogging platform on ActivityPub (Sharkey is an actively developed fork).
 - [Mobilizon](https://joinmobilizon.org/) - A federated tool that helps you find, create and organise events.
+- [PieFed](https://piefed.social/) - Federated link aggregator and discussion forum with a focus on moderation tooling, on ActivityPub.
 - [Pixelfed](https://pixelfed.org/) - Federated photo sharing, on ActivityPub.
 - [Pleroma](https://pleroma.social/) - A federated social networking platform.
 - [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features. **Dormant**
 
 ### Media Streaming & Publishing
+- [Castopod](https://castopod.org/) - Self-hosted podcast hosting with ActivityPub federation.
 - [Funkwhale](https://funkwhale.audio/) - A community-driven project that lets you listen and share music and audio within a decentralized, open network.
 - [Mediagoblin](https://mediagoblin.org/) - A free software media publishing platform alternative to Flickr, YouTube, SoundCloud. **Dormant**
 - [Owncast](https://owncast.online/) - Self-hosted live video streaming with ActivityPub federation.
 - [PeerTube](https://joinpeertube.org/) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
+- [WriteFreely](https://writefreely.org/) - Minimalist federated blogging platform, on ActivityPub.
 
 ### P2P Messaging
 - [Berty](https://github.com/berty/berty) - Anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
@@ -123,6 +132,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ### Web, Search and Archiving
 - [Agregore](https://agregore.mauve.moe/) - A minimal web browser for the distributed web. Supports IPFS, Hypercore Protocol + more.
 - [Cactus Comments](https://cactus.chat/) - A federated comment system for the open web built on Matrix. **Dormant**
+- [Ceno Browser](https://censorship.no/) - Censorship-resistant mobile browser that shares and retrieves web content through the Ouinet peer-to-peer cache.
 - [IPWB](https://github.com/oduwsdl/ipwb) - An interplanetary wayback machine.
 - [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 
@@ -176,6 +186,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 
 ## Other Related Lists
 - [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
+- [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and technologies aiming at decentralisation.
 
 ## Contributors
 - [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
