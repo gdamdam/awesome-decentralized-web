@@ -18,6 +18,7 @@ These are closed without review, regardless of technical merit:
 - **Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi** and finance-related projects — including otherwise-decentralized projects whose operation depends on a token.
 - **AI tools, agent frameworks, and "decentralized AI"** platforms.
 - **Closed-source commercial products** without significant open-source or decentralized relevance.
+- **AI-generated ("vibe-coded") projects without demonstrated adoption** — a working demo is not adoption; see the criteria above.
 
 ## How to submit
 
