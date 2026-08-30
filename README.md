@@ -57,7 +57,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
 
 ### Communication
-* [balchat](https://github.com/xandru582/balchat) - 1:1 and group messenger with no central server. Each user runs their own Tor onion service v3; messages are E2E-encrypted with MLS (RFC 9420). Optional untrusted relay for offline delivery (self-hostable, default public one provided). Pure Rust + Tauri 2 (macOS, Linux, Windows, Android). Apache-2.0.
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting. **Discontinued!** (unmaintained for years)
 * [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun. **Discontinued!**
@@ -69,7 +68,6 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
 * [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
 * [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
-* [Vector](https://vectorapp.io) - No KYC, E2EE, Decentralized, Censorship-Resistant, No Metadata. Free, Open-Source.
 
 ### Databases
 * [BigchainDB](https://www.bigchaindb.com/) - a scalable database that layers blockchain technology over decentralized data. **Discontinued!**
