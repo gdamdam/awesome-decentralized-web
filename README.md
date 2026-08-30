@@ -192,4 +192,6 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ## Contributors
 - [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
 
+This list is released under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE).
+
 
