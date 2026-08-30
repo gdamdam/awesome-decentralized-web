@@ -90,7 +90,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 - [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
 - [Retroshare](https://retroshare.cc/) - Establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail.
 - [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - New updated version of Ricochet.
-- [Session](https://getsession.org/) - Onion-routed private messenger that minimizes metadata (formerly the Loki project).
 - [SimpleX Chat](https://simplex.chat/) - Private messenger without any user identifiers, using decentralized relay servers.
 
 ### Code & Collaboration
@@ -131,7 +130,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 - [OpenTimeStamps](https://opentimestamps.org/) - A standard format for Blockchain timestamping.
 
 ### Miscellaneous
-- [Autonomi](https://autonomi.com/) - Decentralized internet and app infrastructure which rewards users for participating in the network (formerly MaidSafe / SAFE Network).
 - [Librem](https://librem.one) - A growing bundle of ethical services by Purism.
 - [Rotonde](https://wiki.xxiivv.com/#rotonde) - Commonly agreed upon specifications of a JSON object shared between members of the network.
 
