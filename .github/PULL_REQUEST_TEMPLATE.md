@@ -12,8 +12,4 @@
 
 **Open-source repository:**
 
-**Evidence of activity in the last 18 months (commits, releases):**
-
-**Evidence of adoption (users, instances, ~100+ stars):**
-
 - [ ] I read [CONTRIBUTING.md](../CONTRIBUTING.md) and my entry follows the format and is placed alphabetically in the right section.
