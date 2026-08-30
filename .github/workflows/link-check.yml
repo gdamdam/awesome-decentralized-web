@@ -5,23 +5,55 @@ on:
     # Every Monday 06:00 UTC
     - cron: '0 6 * * 1'
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'README.md'
 
 permissions:
   contents: read
   issues: write
 
 jobs:
-  link-check:
+  # Blocking: links ADDED by a PR must be alive before it can merge.
+  new-links:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extract links added by this PR
+        run: |
+          git fetch origin "${{ github.base_ref }}" --depth=1
+          git diff "origin/${{ github.base_ref }}...HEAD" -- README.md \
+            | grep '^+' | grep -v '^+++' > added-lines.txt || true
+          wc -l added-lines.txt
+
+      - name: Check added links (blocking)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept '200..=206,429'
+            --timeout 30
+            --max-retries 3
+            --exclude 'web\.archive\.org'
+            added-lines.txt
+          fail: true
+
+  # Non-blocking weekly audit of the whole README; maintains ONE
+  # persistent issue instead of opening a new one per run.
+  weekly-audit:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run lychee
+      - name: Run lychee on the full README
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          # 429 = rate-limited, not broken; archive.org is slow and
-          # already known-historical, so skip it
           args: >-
             --no-progress
             --accept '200..=206,429'
@@ -31,12 +63,31 @@ jobs:
             README.md
           fail: false
 
-      - name: Open an issue if links are broken
+      - name: Update or create the persistent report issue
         if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: 'Link check: broken or redirected links found'
-          content-filepath: ./lychee/out.md
-          labels: |
-            link-check
-            automated
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label link-rot \
+                --state open --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then
+            gh issue edit "$n" --repo "$GITHUB_REPOSITORY" --body-file ./lychee/out.md
+            gh issue comment "$n" --repo "$GITHUB_REPOSITORY" \
+              --body "Report refreshed by the scheduled run on $(date -u +%Y-%m-%d)."
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" \
+              --title 'Link check: broken or redirected links' \
+              --body-file ./lychee/out.md --label link-rot
+          fi
+
+      - name: Close the report issue when all links pass
+        if: steps.lychee.outputs.exit_code == 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label link-rot \
+                --state open --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" \
+              --comment "All links pass again as of $(date -u +%Y-%m-%d). Closing."
+          fi
