@@ -1,31 +1,93 @@
 {
- "ActivityPub": "w3c/activitypub",
+ "ActivityPub": {
+  "note": "finished W3C Recommendation",
+  "repo": "w3c/activitypub",
+  "stable": true
+ },
  "Agregore": "AgregoreWeb/agregore-browser",
+ "Akkoma": {
+  "exempt": "developed at akkoma.dev (self-hosted Gitea)"
+ },
  "Automerge": "automerge/automerge",
+ "BitTorrent": {
+  "exempt": "protocol family; no canonical repository"
+ },
  "Bluesky": "bluesky-social/social-app",
  "Bonfire": "bonfire-networks/bonfire-app",
  "BookWyrm": "bookwyrm-social/bookwyrm",
+ "Briar": {
+  "exempt": "developed at code.briarproject.org"
+ },
+ "Cactus Comments": {
+  "exempt": "developed at gitlab.com/cactus-comments"
+ },
+ "Castopod": {
+  "exempt": "developed at code.castopod.org"
+ },
  "Ceno Browser": "ceno-app/ceno-android",
- "Decentralized Identifiers": "w3c/did",
+ "Cwtch": {
+  "exempt": "developed at git.openprivacy.ca"
+ },
+ "Darcs": {
+  "exempt": "developed at hub.darcs.net"
+ },
+ "Dark Crystal": {
+  "exempt": "multiple libraries; no single canonical repository"
+ },
+ "Decentralized Identifiers": {
+  "note": "finished W3C Recommendation",
+  "repo": "w3c/did-core",
+  "stable": true
+ },
  "Decentralized Web Nodes": "decentralized-identity/decentralized-web-node",
  "Delta Chat": "chatmail/core",
  "Encrypted Data Vaults": "decentralized-identity/edv-spec",
  "Fedify": "fedify-dev/fedify",
+ "Forgejo": {
+  "exempt": "developed on Codeberg (codeberg.org/forgejo/forgejo)"
+ },
  "Freenet": "freenet/freenet-core",
  "Friendica": "friendica/friendica",
+ "Funkwhale": {
+  "exempt": "developed at dev.funkwhale.audio"
+ },
+ "GNUnet": {
+  "exempt": "developed at git.gnunet.org"
+ },
+ "GoToSocial": {
+  "exempt": "moved to Codeberg (codeberg.org/superseriousbusiness/gotosocial)"
+ },
+ "Hubzilla": {
+  "exempt": "developed at framagit.org/hubzilla/core"
+ },
  "Hyphanet": "hyphanet/fred",
  "I2P": "i2p/i2p.i2p",
  "IPFS": "ipfs/kubo",
  "IPLD": "ipld/ipld",
  "Iroh": "n0-computer/iroh",
+ "Jami": {
+  "exempt": "developed at git.jami.net (Gerrit)"
+ },
+ "Keyoxide": {
+  "exempt": "developed on Codeberg (codeberg.org/keyoxide)"
+ },
  "Lemmy": "LemmyNet/lemmy",
  "LibreMesh": "libremesh/lime-packages",
+ "Librem": {
+  "exempt": "commercial service bundle; no single repository"
+ },
  "Manyverse": "staltz/manyverse",
  "Mastodon": "mastodon/mastodon",
  "Matrix": "matrix-org/matrix-spec",
  "Mbin": "MbinOrg/mbin",
+ "Mediagoblin": {
+  "exempt": "developed on GNU Savannah"
+ },
  "Meshtastic": "meshtastic/firmware",
  "Misskey": "misskey-dev/misskey",
+ "Mobilizon": {
+  "exempt": "developed at framagit.org/framasoft/mobilizon"
+ },
  "Named Data Networking": "named-data/NFD",
  "Nostr": "nostr-protocol/nips",
  "OnionShare": "onionshare/onionshare",
@@ -35,20 +97,48 @@
  "PeerTube": "Chocobozzz/PeerTube",
  "Peergos": "Peergos/Peergos",
  "Perkeep": "perkeep/perkeep",
+ "PieFed": {
+  "exempt": "developed on Codeberg (codeberg.org/rimu/pyfedi)"
+ },
+ "Pijul": {
+  "exempt": "developed on Pijul's own Nest forge"
+ },
  "Pixelfed": "pixelfed/pixelfed",
+ "Pleroma": {
+  "exempt": "developed at git.pleroma.social"
+ },
+ "Radicle": {
+  "exempt": "hosted on the Radicle network itself"
+ },
  "Reticulum": "markqvist/Reticulum",
  "Retroshare": "RetroShare/RetroShare",
+ "Rotonde": {
+  "exempt": "a specification; no canonical repository"
+ },
  "Scuttlebutt": "ssbc/scuttlebutt-protocol-guide",
  "SimpleX Chat": "simplex-chat/simplex-chat",
  "Socialhome": "jaywink/socialhome",
  "Solid": "solid/specification",
+ "Spritely": {
+  "exempt": "developed at gitlab.com/spritely"
+ },
  "Syncthing": "syncthing/syncthing",
- "Tahoe-LAFS": "tahoe-lafs/tahoe-lafs",
- "Tor": "torproject/tor",
+ "Tor": {
+  "exempt": "developed at gitlab.torproject.org; the GitHub mirror stopped syncing in 2024"
+ },
  "Tox": "TokTok/c-toxcore",
  "Tribler": "Tribler/tribler",
+ "Veilid": {
+  "exempt": "developed at gitlab.com/veilid/veilid"
+ },
+ "WebRTC": {
+  "exempt": "W3C/IETF standard; no single repository"
+ },
  "WebTorrent": "webtorrent/webtorrent",
- "Willow": "earthstar-project/willow-rs",
+ "WebXDC": {
+  "exempt": "developed on Codeberg (codeberg.org/webxdc)"
+ },
+ "Willow": "earthstar-project/willow-js",
  "WriteFreely": "writefreely/writefreely",
  "XMPP": "xsf/xeps",
  "Yggdrasil": "yggdrasil-network/yggdrasil-go",
@@ -56,6 +146,7 @@
  "diaspora*": "diaspora/diaspora",
  "instant.io": "webtorrent/instant.io",
  "libp2p": "libp2p/go-libp2p",
+ "m-ld": "m-ld/m-ld-js",
  "p2panda": "p2panda/p2panda",
  "remoteStorage": "remotestorage/remotestorage.js"
 }

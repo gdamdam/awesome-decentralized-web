@@ -5,6 +5,9 @@ on:
   push:
     branches: [master]
 
+permissions:
+  contents: read
+
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
@@ -14,3 +17,5 @@ jobs:
         with:
           node-version: 22
       - run: npx --yes awesome-lint
+      - name: Validate README/metadata consistency
+        run: python3 .github/scripts/validate_metadata.py

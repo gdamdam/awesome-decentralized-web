@@ -147,7 +147,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 
 ### File Storage, Sync and Sharing
 - [instant.io](https://instant.io/) - Streaming file transfer over WebTorrent.
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 - [OnionShare](https://onionshare.org/) - Hosts the selected files as a hidden service on the user's computer.
 - [Peergos](https://peergos.org/) - End-to-end encrypted, peer-to-peer file storage, sharing and communication network.
 - [Perkeep](https://perkeep.org/) - Set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
@@ -158,7 +158,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 
 ### Databases
 - [GUN](https://github.com/amark/gun) - A small, easy, and fast data sync and storage system that runs everywhere JavaScript does. **Dormant**
-- [OrbitDB](https://github.com/orbitdb/orbit-db) - Peer-to-peer database engine on top of IPFS.
+- [OrbitDB](https://github.com/orbitdb/orbitdb) - Peer-to-peer database engine on top of IPFS.
 
 ### Anonymity & Overlay Networks
 - [Hidden Lake](https://github.com/number571/hidden-lake) - Anonymous friend-to-friend network built on queue-based messaging, designed to resist traffic analysis even by a global observer.
