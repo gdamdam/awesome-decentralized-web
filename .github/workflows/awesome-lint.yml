@@ -8,11 +8,6 @@ on:
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
-    # Advisory for now: the list predates awesome-lint's style rules
-    # (dash list markers, Contents section, no license section), so it
-    # currently reports ~190 style errors. Remove continue-on-error
-    # after migrating the README to awesome-lint style.
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
