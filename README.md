@@ -6,8 +6,8 @@ Thanks to the [Decentralized Web Summit](https://web.archive.org/web/2018/https:
 
 **Scope.** This list is about the *decentralized web*: peer-to-peer protocols, federated applications, and distributed data — projects where decentralization is the core design, not a feature or a marketing claim.
 
-**Out of scope — submissions will be closed without review:**
-- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects. (Merely *using* an existing blockchain as a neutral public record, with no token of its own, can qualify — see the contributing guide below.)
+**Out of scope:**
+- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects. (Merely *using* an existing blockchain as a neutral public record, with no token of its own, can qualify, see the contributing guide below.)
 - AI tools, agent frameworks, and "decentralized AI" platforms.
 - Commercial products without significant open-source or decentralized relevance.
 
