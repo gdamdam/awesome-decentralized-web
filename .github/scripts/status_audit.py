@@ -121,6 +121,11 @@ for name, url in entries:
             dst = r.geturl().split("/")[2].removeprefix("www.")
             if src != dst and not dst.endswith("." + src) and not src.endswith("." + dst):
                 redirects.append((name, url, f"now lands on {dst}"))
+        except HTTPError as e:
+            # any HTTP status proves DNS/TLS/server are alive; sites often
+            # 403 bot requests. Only 'gone' statuses are real findings.
+            if e.code in (404, 410):
+                failures.append((name, url, f"HTTP {e.code}"))
         except Exception as e:
             failures.append((name, url, f"{type(e).__name__}: {e}"))
 
