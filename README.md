@@ -13,6 +13,8 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
+Entries marked **Dormant** still work but have seen no meaningful development for roughly 2 years; dead projects live in the [Graveyard](#graveyard).
+
 
 ## Protocols and Technologies
 *Protocols, stacks and building blocks for a decentralized web.*
@@ -20,10 +22,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 ### Federation & Social Protocols
 - [ActivityPub](https://www.w3.org/TR/activitypub/) - Open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 - [AT Protocol](https://github.com/bluesky-social/atproto) - The Authenticated Transfer Protocol, an open protocol for decentralized social networking, powering Bluesky.
-- [ForgeFed](https://github.com/forgefed/forgefed) - A decentralized federation protocol provides a server to server API for pull request, forking and subscription.
+- [ForgeFed](https://github.com/forgefed/forgefed) - A decentralized federation protocol provides a server to server API for pull request, forking and subscription. **Dormant**
 - [Matrix](https://matrix.org/) - An open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 - [Nostr](https://nostr.com/) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network.
-- [Scuttlebutt](https://www.scuttlebutt.nz/) - A decent(ralised), offline-friendly secure gossip protocol.
+- [Scuttlebutt](https://www.scuttlebutt.nz/) - A decent(ralised), offline-friendly secure gossip protocol. **Dormant**
 
 ### P2P Networking & Data Transfer
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing.
@@ -41,7 +43,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
 ### Local-first & CRDTs
 - [Automerge](https://automerge.org/) - A CRDT library for building local-first, collaborative applications that sync without a central server.
-- [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in p2p software.
+- [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in p2p software. **Dormant**
 - [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
 - [Willow](https://willowprotocol.org/) - A protocol for synchronisable, multi-writer data stores, by the authors of Earthstar.
 - [Yjs](https://yjs.dev/) - A high-performance CRDT for building collaborative, offline-first applications.
@@ -52,8 +54,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 - [Reticulum](https://reticulum.network/) - Cryptography-based networking stack for building resilient networks over almost any medium: LoRa, packet radio, WiFi or TCP/IP.
 
 ### Identity & Personal Data
-- [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - A mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes.
-- [Encrypted Data Vaults](https://identity.foundation/edv-spec/) - A privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider.
+- [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - A mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes. **Dormant**
+- [Encrypted Data Vaults](https://identity.foundation/edv-spec/) - A privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. **Dormant**
 - [remoteStorage](https://remotestorage.io/) - An open protocol for decoupling data from apps.
 - [Solid](https://solidproject.org/) - A proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
 
@@ -64,21 +66,21 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 ### Social Networks (Fediverse & beyond)
 - [Bluesky](https://bsky.app/) - Decentralized social network built on the AT Protocol, with self-hostable personal data servers.
 - [BookWyrm](https://joinbookwyrm.com/) - Federated social reading and book reviews, on ActivityPub.
-- [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform.
+- [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform. **Dormant**
 - [Friendica](https://friendi.ca/) - Decentralized and federated social media platform.
 - [GoToSocial](https://gotosocial.org/) - Lightweight ActivityPub social network server.
 - [Hubzilla](https://hubzilla.org/) - Decentralized and federated social media platform.
 - [Lemmy](https://join-lemmy.org/) - Federated link aggregator and discussion forum, on ActivityPub.
-- [Manyverse](https://www.manyver.se/) - An iOS and Android mobile app for the decentralized messaging and sharing app built on top of Secure Scuttlebutt.
+- [Manyverse](https://www.manyver.se/) - An iOS and Android mobile app for the decentralized messaging and sharing app built on top of Secure Scuttlebutt. **Dormant**
 - [Mastodon](https://mastodon.social) - Decentralized alternative to twitter, with servers federation.
 - [Mobilizon](https://joinmobilizon.org/) - A federated tool that helps you find, create and organise events.
 - [Pixelfed](https://pixelfed.org/) - Federated photo sharing, on ActivityPub.
 - [Pleroma](https://pleroma.social/) - A federated social networking platform.
-- [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
+- [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features. **Dormant**
 
 ### Media Streaming & Publishing
 - [Funkwhale](https://funkwhale.audio/) - A community-driven project that lets you listen and share music and audio within a decentralized, open network.
-- [Mediagoblin](https://mediagoblin.org/) - A free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
+- [Mediagoblin](https://mediagoblin.org/) - A free software media publishing platform alternative to Flickr, YouTube, SoundCloud. **Dormant**
 - [Owncast](https://owncast.online/) - Self-hosted live video streaming with ActivityPub federation.
 - [PeerTube](https://joinpeertube.org/) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
 
@@ -93,7 +95,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 - [SimpleX Chat](https://simplex.chat/) - Private messenger without any user identifiers, using decentralized relay servers.
 
 ### Code & Collaboration
-- [Darcs](http://darcs.net/) - Free and open source X-platform VCS system.
+- [Darcs](http://darcs.net/) - Free and open source X-platform VCS system. **Dormant**
 - [Forgejo](https://forgejo.org/) - Self-hosted software forge (Gitea fork) implementing ActivityPub-based federation via ForgeFed.
 - [Pijul](https://pijul.org/) - A free and open source (GPL2) distributed version control system.
 - [Radicle](https://radicle.dev/) - Secure peer-to-peer code collaboration without intermediaries.
@@ -110,7 +112,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 - [WebTorrent](https://webtorrent.io/) - An in-browser torrenting that works without requiring users to install anything extra.
 
 ### Databases
-- [GUN](https://github.com/amark/gun) - A small, easy, and fast data sync and storage system that runs everywhere JavaScript does.
+- [GUN](https://github.com/amark/gun) - A small, easy, and fast data sync and storage system that runs everywhere JavaScript does. **Dormant**
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - P2p database engine on top of IPFS.
 
 ### Anonymity & Overlay Networks
@@ -120,18 +122,18 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
 ### Web, Search and Archiving
 - [Agregore](https://agregore.mauve.moe/) - A minimal web browser for the distributed web. Supports IPFS, Hypercore Protocol + more.
-- [Cactus Comments](https://cactus.chat/) - A federated comment system for the open web built on Matrix.
+- [Cactus Comments](https://cactus.chat/) - A federated comment system for the open web built on Matrix. **Dormant**
 - [IPWB](https://github.com/oduwsdl/ipwb) - An interplanetary wayback machine.
 - [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 
 ### Identity & Key Management
-- [Dark Crystal](https://darkcrystal.pw/) - Set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys.
+- [Dark Crystal](https://darkcrystal.pw/) - Set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys. **Dormant**
 - [Keyoxide](https://keyoxide.org/) - Decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
 - [OpenTimeStamps](https://opentimestamps.org/) - A standard format for Blockchain timestamping.
 
 ### Miscellaneous
 - [Librem](https://librem.one) - A growing bundle of ethical services by Purism.
-- [Rotonde](https://wiki.xxiivv.com/#rotonde) - Commonly agreed upon specifications of a JSON object shared between members of the network.
+- [Rotonde](https://wiki.xxiivv.com/#rotonde) - Commonly agreed upon specifications of a JSON object shared between members of the network. **Dormant**
 
 ## Graveyard
 *Projects that shaped the decentralized web but are no longer maintained. Kept for the historical record. Domains of dead projects are sometimes squatted or hijacked — where that happened, links point to archived copies.*

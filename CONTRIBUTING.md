@@ -28,5 +28,6 @@ These are closed without review, regardless of technical merit:
 
 ## Removal policy
 
-- Projects that shut down, archive their repository, or go inactive for 2+ years are moved to the **Graveyard** section (we keep the historical record).
+- Projects with no meaningful development activity for roughly 2 years, whose software still works, are marked **Dormant**.
+- Dormant projects move to the **Graveyard** section when they stop working, archive their repository, shut down, or lose their domain (we keep the historical record).
 - Links whose domains are squatted, hijacked, or repurposed for spam are removed or repointed to archived copies immediately. If you spot one, please open an issue.
