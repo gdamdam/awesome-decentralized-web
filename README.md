@@ -15,87 +15,53 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
 
 ## Protocols and Technologies
-*Tools for building a decentralized web.*
+*Protocols, stacks and building blocks for a decentralized web.*
 
-
-### Communication
+### Federation & Social Protocols
+* [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [AT Protocol](https://github.com/bluesky-social/atproto) - AT Protocol (Authenticated Transfer Protocol)
 * [ForgeFed](https://github.com/forgefed/forgefed) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
-* [libp2p](https://libp2p.io/) - a modular peer-to-peer networking stack, the connectivity layer used by IPFS and many other decentralized projects.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Nostr](https://nostr.com/) -  A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network.
-* [Reticulum](https://reticulum.network/) - cryptography-based networking stack for building resilient networks over almost any medium: LoRa, packet radio, WiFi or TCP/IP.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised), offline-friendly secure gossip protocol.
-* [Veilid](https://veilid.com/) - an open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
 
-### Data
-* [Automerge](https://automerge.org/) - a CRDT library for building local-first, collaborative applications that sync without a central server.
+### P2P Networking & Data Transfer
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - protocol for distributed file sharing.
-* [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in p2p software.
+* [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack.
 * [Hypercore Protocol](https://github.com/holepunchto/hypercore) - a fast, scalable, and secure peer-to-peer protocol for everyone (evolution of the [Dat Protocol](https://datproject.org)), now maintained by [Holepunch](https://holepunch.to/) as part of the Pear runtime.
-* [Holochain](https://github.com/holochain/holochain) - a peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
 * [IPFS](https://ipfs.tech/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
 * [Iroh](https://www.iroh.computer/) - a toolkit for direct peer-to-peer connectivity: QUIC hole-punching, content-addressed blobs and document sync.
+* [libp2p](https://libp2p.io/) - a modular peer-to-peer networking stack, the connectivity layer used by IPFS and many other decentralized projects.
+* [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
+
+### Application Frameworks
+* [Holochain](https://github.com/holochain/holochain) - a peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
+* [Spritely](https://spritely.institute/) - distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
+* [Veilid](https://veilid.com/) - an open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
+
+### Local-first & CRDTs
+* [Automerge](https://automerge.org/) - a CRDT library for building local-first, collaborative applications that sync without a central server.
+* [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in p2p software.
+* [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
 * [Willow](https://willowprotocol.org/) - a protocol for synchronisable, multi-writer data stores, by the authors of Earthstar.
 * [Yjs](https://yjs.dev/) - a high-performance CRDT for building collaborative, offline-first applications.
 
-### Web
-* [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
+### Mesh & Off-grid Networking
+* [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
+* [Meshtastic](https://meshtastic.org/) - open-source, off-grid mesh communication over inexpensive LoRa radios.
+* [Reticulum](https://reticulum.network/) - cryptography-based networking stack for building resilient networks over almost any medium: LoRa, packet radio, WiFi or TCP/IP.
+
+### Identity & Personal Data
+* [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - a mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes.
+* [Encrypted Data Vaults](https://identity.foundation/edv-spec/) - a privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. 
 * [remoteStorage](https://remotestorage.io/) - An open protocol for decoupling data from apps.
 * [Solid](https://solidproject.org/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
-* [Spritely](https://spritely.institute/) - distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
-* [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
 
 ## Applications
 *Things built with decentralized protocols and technologies.*
 
-
-### Collaboration
-* [Forgejo](https://forgejo.org/) - self-hosted software forge (Gitea fork) implementing ActivityPub-based federation via ForgeFed.
-* [Radicle](https://radicle.dev/) - secure peer-to-peer code collaboration without intermediaries.
-* [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
-* [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
-
-### Communication
-* [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
-* [Briar](https://briarproject.org/) - peer-to-peer encrypted messaging over Tor, Wi-Fi or Bluetooth, built for activists and journalists.
-* [Cwtch](https://cwtch.im/) - metadata-resistant, decentralized group messaging built on Tor onion services.
-* [Delta Chat](https://delta.chat/) - decentralized messenger with end-to-end encryption that works over the existing e-mail network.
-* [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
-* [Meshtastic](https://meshtastic.org/) - open-source, off-grid mesh communication over inexpensive LoRa radios.
-* [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
-* [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
-* [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
-* [SimpleX Chat](https://simplex.chat/) - private messenger without any user identifiers, using decentralized relay servers.
-* [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
-* [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
-
-### Databases
-* [GUN](https://github.com/amark/gun) - a small, easy, and fast data sync and storage system that runs everywhere JavaScript does.
-* [OrbitDB](https://github.com/orbitdb/orbit-db) - p2p database engine on top of IPFS.
-
-### Data Storage and Sharing
-* [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - a mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes.
-* [Encrypted Data Vaults](https://identity.foundation/edv-spec/) - a privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. 
-* [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
-* [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
-* [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
-* [Peergos](https://peergos.org/) - end-to-end encrypted, peer-to-peer file storage, sharing and communication network.
-* [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
-* [Rotonde](https://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network.
-* [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
-* [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
-* [Syncthing](https://syncthing.net/) - continuous peer-to-peer file synchronization between devices, without any central server.
-* [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
-
-### Media
-* [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
-* [Owncast](https://owncast.online/) - self-hosted live video streaming with ActivityPub federation.
-* [PeerTube](https://joinpeertube.org/) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
-* [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
-
-### Microblogging and Social Network
+### Social Networks (Fediverse & beyond)
 * [Bluesky](https://bsky.app/) - decentralized social network built on the AT Protocol, with self-hostable personal data servers.
 * [BookWyrm](https://joinbookwyrm.com/) - federated social reading and book reviews, on ActivityPub.
 * [diaspora*](https://diasporafoundation.org/) - decentralized and federated social media platform.
@@ -103,30 +69,71 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 * [GoToSocial](https://gotosocial.org/) - lightweight ActivityPub social network server.
 * [Hubzilla](https://hubzilla.org/) - decentralized and federated social media platform.
 * [Lemmy](https://join-lemmy.org/) - federated link aggregator and discussion forum, on ActivityPub.
-* [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Manyverse](https://www.manyver.se/) - An iOS and Android mobile app for the decentralized messaging and sharing app built on top of Secure Scuttlebutt
+* [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
+* [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
 * [Pixelfed](https://pixelfed.org/) - federated photo sharing, on ActivityPub.
 * [Pleroma](https://pleroma.social/) - a federated social networking platform.
 * [Socialhome](https://socialhome.network/) - decentralized and federated profile builder with social networking features.
 
-### Miscellaneous
-* [Keyoxide](https://keyoxide.org/) - decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
-* [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
-* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
-* [Dark Crystal](https://darkcrystal.pw/) - set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys.
+### Media Streaming & Publishing
+* [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
+* [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
+* [Owncast](https://owncast.online/) - self-hosted live video streaming with ActivityPub federation.
+* [PeerTube](https://joinpeertube.org/) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
 
-### Web
+### P2P Messaging
+* [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
+* [Briar](https://briarproject.org/) - peer-to-peer encrypted messaging over Tor, Wi-Fi or Bluetooth, built for activists and journalists.
+* [Cwtch](https://cwtch.im/) - metadata-resistant, decentralized group messaging built on Tor onion services.
+* [Delta Chat](https://delta.chat/) - decentralized messenger with end-to-end encryption that works over the existing e-mail network.
+* [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
+* [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
+* [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
+* [Session](https://getsession.org/) - onion-routed private messenger that minimizes metadata (formerly the Loki project).
+* [SimpleX Chat](https://simplex.chat/) - private messenger without any user identifiers, using decentralized relay servers.
+
+### Code & Collaboration
+* [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
+* [Forgejo](https://forgejo.org/) - self-hosted software forge (Gitea fork) implementing ActivityPub-based federation via ForgeFed.
+* [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
+* [Radicle](https://radicle.dev/) - secure peer-to-peer code collaboration without intermediaries.
+
+### File Storage, Sync and Sharing
+* [instant.io](https://instant.io/) - streaming file transfer over WebTorrent.
+* [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
+* [OnionShare](https://onionshare.org/) - hosts the selected files as a hidden service on the user's computer
+* [Peergos](https://peergos.org/) - end-to-end encrypted, peer-to-peer file storage, sharing and communication network.
+* [Perkeep](https://perkeep.org/) - set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data.
+* [Syncthing](https://syncthing.net/) - continuous peer-to-peer file synchronization between devices, without any central server.
+* [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
+* [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
+* [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
+
+### Databases
+* [GUN](https://github.com/amark/gun) - a small, easy, and fast data sync and storage system that runs everywhere JavaScript does.
+* [OrbitDB](https://github.com/orbitdb/orbit-db) - p2p database engine on top of IPFS.
+
+### Anonymity & Overlay Networks
+* [Hyphanet](https://www.hyphanet.org/) - formerly Freenet, a network aimed at activists and people living in repressive regimes (the new [Freenet](https://freenet.org/) is a separate rewrite by the same founder). It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
+* [I2P](https://geti2p.net/) - anonymous network with hidden services.
+* [Tor](https://www.torproject.org/) - anonymous network proxy.
+
+### Web, Search and Archiving
 * [Agregore](https://agregore.mauve.moe/) - A minimal web browser for the distributed web. Supports IPFS, Hypercore Protocol + more.
 * [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix.
-* [Hyphanet](https://www.hyphanet.org/) - formerly Freenet, a network aimed at activists and people living in repressive regimes (the new [Freenet](https://freenet.org/) is a separate rewrite by the same founder). It uses a web of trust in high security mode, which allows users on the network to be effectively undetectable.
-* [GNUnet](https://gnunet.org/) - GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack.
-* [I2P](https://geti2p.net/) - anonymous network with hidden services.
 * [IPWB](https://github.com/oduwsdl/ipwb) - an interplanetary wayback machine.
-* [Session](https://getsession.org/) - onion-routed private messenger that minimizes metadata (formerly the Loki project).
-* [Autonomi](https://autonomi.com/) - decentralized internet and app infrastructure which rewards users for participating in the network (formerly MaidSafe / SAFE Network).
-* [Tor](https://www.torproject.org/) - anonymous network proxy.
 * [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
 
+### Identity & Key Management
+* [Dark Crystal](https://darkcrystal.pw/) - set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys.
+* [Keyoxide](https://keyoxide.org/) - decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
+* [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
+
+### Miscellaneous
+* [Autonomi](https://autonomi.com/) - decentralized internet and app infrastructure which rewards users for participating in the network (formerly MaidSafe / SAFE Network).
+* [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
+* [Rotonde](https://wiki.xxiivv.com/#rotonde) - commonly agreed upon specifications of a JSON object shared between members of the network.
 
 ## Graveyard
 *Projects that shaped the decentralized web but are no longer maintained. Kept for the historical record. Domains of dead projects are sometimes squatted or hijacked — where that happened, links point to archived copies.*
