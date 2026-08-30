@@ -84,7 +84,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ### Local-first & CRDTs
 - [Automerge](https://automerge.org/) - A CRDT library for building local-first, collaborative applications that sync without a central server.
 - [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in peer-to-peer software. **Dormant**
-- [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs.
+- [m-ld](https://m-ld.org/) - Library enabling consistent, zero latency read and write of shared information, using RDF (JSON-LD) and CRDTs. **Dormant**
 - [p2panda](https://p2panda.org/) - A collection of building blocks for local-first, peer-to-peer applications.
 - [Willow](https://willowprotocol.org/) - A protocol for synchronisable, multi-writer data stores, by the authors of Earthstar.
 - [Yjs](https://yjs.dev/) - A high-performance CRDT for building collaborative, offline-first applications.
@@ -168,7 +168,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ### Anonymity & Overlay Networks
 - [Hidden Lake](https://github.com/number571/hidden-lake) - Anonymous friend-to-friend network built on queue-based messaging, designed to resist traffic analysis even by a global observer.
 - [Hyphanet](https://www.hyphanet.org/) - Formerly Freenet, a network aimed at activists and people living in repressive regimes (the new [Freenet](https://freenet.org/) is a separate rewrite by the same founder). It uses a web of trust in high security mode, which makes users on the network very difficult to detect.
-- [I2P](https://geti2p.net/) - Anonymous network with hidden services.
+- [I2P](https://i2p.net/) - Anonymous network with hidden services.
 - [Tor](https://www.torproject.org/) - Anonymous network proxy.
 
 ### Web, Search and Archiving
