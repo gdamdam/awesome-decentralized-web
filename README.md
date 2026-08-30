@@ -15,7 +15,12 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
 Entries marked **Dormant** still work but have seen no meaningful development for roughly 2 years; dead projects live in the Graveyard section at the bottom.
 
-**A quick taxonomy.** *Federated* systems (Mastodon, Matrix, XMPP) are many independently operated servers interoperating through a shared protocol — you choose which server to trust instead of trusting a central one. *Peer-to-peer* systems (BitTorrent, Scuttlebutt, Tox) exchange data directly between participants without requiring a single authoritative application server — though trackers, bootstrap nodes or relays may assist. *Distributed* only means data or computation is spread across many machines — centralized services can be distributed too; a distributed system is decentralized only when no single party controls it. *Local-first* software (built with Automerge, Yjs or Willow) keeps the authoritative copy of your data on your own device and treats the network as optional, syncing when connectivity allows.
+**A quick taxonomy** — four words that often get mixed up:
+
+- **Federated** — many independently operated servers interoperating through a shared protocol; you choose which server to trust instead of trusting a central one. *(Mastodon, Matrix, XMPP)*
+- **Peer-to-peer** — participants exchange data directly, with no single authoritative application server; trackers, bootstrap nodes or relays may assist. *(BitTorrent, Scuttlebutt, Tox)*
+- **Distributed** — only means data or computation is spread across many machines; centralized services can be distributed too. A distributed system is decentralized only when no single party controls it.
+- **Local-first** — the authoritative copy of your data lives on your own device, and the network is optional: sync happens when connectivity allows. *(software built with Automerge, Yjs or Willow)*
 
 ## Contents
 
