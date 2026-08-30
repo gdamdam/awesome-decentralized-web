@@ -13,7 +13,33 @@ Thanks to the [Decentralized Web Summit](https://web.archive.org/web/2018/https:
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
-Entries marked **Dormant** still work but have seen no meaningful development for roughly 2 years; dead projects live in the [Graveyard](#graveyard).
+Entries marked **Dormant** still work but have seen no meaningful development for roughly 2 years; dead projects live in the Graveyard section at the bottom.
+
+**A quick taxonomy.** *Federated* systems (Mastodon, Matrix, XMPP) are many independently operated servers interoperating through a shared protocol — you choose which server to trust instead of trusting a central one. *Peer-to-peer* systems (BitTorrent, Scuttlebutt, Tox) have no servers at all: every participant connects directly and carries part of the infrastructure. *Distributed* only means data or computation is spread across many machines — centralized services can be distributed too; a distributed system is decentralized only when no single party controls it. *Local-first* software (built with Automerge, Yjs or Willow) keeps the authoritative copy of your data on your own device and treats the network as optional, syncing when connectivity allows.
+
+## Contents
+
+- [Protocols and Technologies](#protocols-and-technologies)
+  - [Federation & Social Protocols](#federation--social-protocols)
+  - [P2P Networking & Data Transfer](#p2p-networking--data-transfer)
+  - [Application Frameworks](#application-frameworks)
+  - [Local-first & CRDTs](#local-first--crdts)
+  - [Mesh & Off-grid Networking](#mesh--off-grid-networking)
+  - [Identity & Personal Data](#identity--personal-data)
+- [Applications](#applications)
+  - [Social Networks (Fediverse & beyond)](#social-networks-fediverse--beyond)
+  - [Media Streaming & Publishing](#media-streaming--publishing)
+  - [P2P Messaging](#p2p-messaging)
+  - [Code & Collaboration](#code--collaboration)
+  - [File Storage, Sync and Sharing](#file-storage-sync-and-sharing)
+  - [Databases](#databases)
+  - [Anonymity & Overlay Networks](#anonymity--overlay-networks)
+  - [Web, Search and Archiving](#web-search-and-archiving)
+  - [Identity & Key Management](#identity--key-management)
+  - [Miscellaneous](#miscellaneous)
+- [Graveyard](#graveyard)
+- [Other Related Lists](#other-related-lists)
+- [Contributors](#contributors)
 
 
 ## Protocols and Technologies
