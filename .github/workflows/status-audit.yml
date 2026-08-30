@@ -23,6 +23,10 @@ jobs:
         run: |
           python3 .github/scripts/status_audit.py && echo "findings=0" >> "$GITHUB_OUTPUT" \
             || echo "findings=1" >> "$GITHUB_OUTPUT"
+          # belt and braces: the issue steps need a report file even if
+          # the script died before writing one
+          [ -f status-report.md ] || \
+            echo "The audit script crashed before producing a report — check the run logs." > status-report.md
 
       - name: Update or create the persistent audit issue
         if: steps.audit.outputs.findings == '1'
