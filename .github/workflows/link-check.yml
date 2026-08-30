@@ -1,0 +1,42 @@
+name: Check links
+
+on:
+  schedule:
+    # Every Monday 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 429 = rate-limited, not broken; archive.org is slow and
+          # already known-historical, so skip it
+          args: >-
+            --no-progress
+            --accept '200..=206,429'
+            --timeout 30
+            --max-retries 3
+            --exclude 'web\.archive\.org'
+            README.md
+          fail: false
+
+      - name: Open an issue if links are broken
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 'Link check: broken or redirected links found'
+          content-filepath: ./lychee/out.md
+          labels: |
+            link-check
+            automated
