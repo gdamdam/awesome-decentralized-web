@@ -22,22 +22,30 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 ### Communication
 * [AT Protocol](https://github.com/bluesky-social/atproto) - AT Protocol (Authenticated Transfer Protocol)
 * [ForgeFed](https://github.com/forgefed/forgefed) - a decentralized federation protocol provides a server to server API for pull request, forking and subscription.
+* [libp2p](https://libp2p.io/) - a modular peer-to-peer networking stack, the connectivity layer used by IPFS and many other decentralized projects.
 * [Matrix](https://matrix.org/) - an open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 * [Nostr](https://nostr.com/) -  A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network.
+* [Reticulum](https://reticulum.network/) - cryptography-based networking stack for building resilient networks over almost any medium: LoRa, packet radio, WiFi or TCP/IP.
 * [Scuttlebutt](https://www.scuttlebutt.nz/) - a decent(ralised), offline-friendly secure gossip protocol.
+* [Veilid](https://veilid.com/) - an open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
 
 ### Data
+* [Automerge](https://automerge.org/) - a CRDT library for building local-first, collaborative applications that sync without a central server.
 * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - protocol for distributed file sharing.
 * [Earthstar](https://github.com/earthstar-project/earthstar) - An offline-first, distributed, syncable, embedded document database for use in p2p software.
 * [Hypercore Protocol](https://github.com/holepunchto/hypercore) - a fast, scalable, and secure peer-to-peer protocol for everyone (evolution of the [Dat Protocol](https://datproject.org)), now maintained by [Holepunch](https://holepunch.to/) as part of the Pear runtime.
 * [Holochain](https://github.com/holochain/holochain) - a peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
 * [IPFS](https://ipfs.tech/) - or InterPlanetary File System, is a distributed file storage system that aims to replace HTTP.
+* [Iroh](https://www.iroh.computer/) - a toolkit for direct peer-to-peer connectivity: QUIC hole-punching, content-addressed blobs and document sync.
+* [Willow](https://willowprotocol.org/) - a protocol for synchronisable, multi-writer data stores, by the authors of Earthstar.
+* [Yjs](https://yjs.dev/) - a high-performance CRDT for building collaborative, offline-first applications.
 
 ### Web
 * [ActivityPub](https://www.w3.org/TR/activitypub/) - open, decentralized social networking protocol based on Pump.io's ActivityPump protocol.
 * [libdweb](https://github.com/mozilla/libdweb) - a community effort to implement experimental APIs enabling dweb protocols in Firefox. **Discontinued!**
 * [remoteStorage](https://remotestorage.io/) - An open protocol for decoupling data from apps.
 * [Solid](https://solidproject.org/) - a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles.
+* [Spritely](https://spritely.institute/) - distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
 * [Webnative](https://fission.codes/) - JavaScript library that decouples user data from apps and hosts it on IPFS. **Discontinued!** (Fission shut down in 2024)
 * [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
 
@@ -50,6 +58,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Backfeed](http://backfeed.cc/) - a technology to enable decentralized and user-owned governance and reputation management for a community. **Discontinued!**
 * [git-ssb](https://github.com/clehner/git-ssb) - Decentralized git repo hosting and issue tracking on secure-scuttlebutt. **Discontinued!** (repository archived in 2018)
 * [PeerPad](https://peerpad.net) - a realtime P2P collaborative editing tool, powered by IPFS and CRDTs. **Discontinued!**
+* [Forgejo](https://forgejo.org/) - self-hosted software forge (Gitea fork) implementing ActivityPub-based federation via ForgeFed.
 * [Radicle](https://radicle.dev/) - secure peer-to-peer code collaboration without intermediaries.
 * [Pijul](https://pijul.org/) - Pijul is a free and open source (GPL2) distributed version control system.
 * [Darcs](http://darcs.net/) - free and open source X-platform VCS system.
@@ -57,13 +66,18 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 ### Communication
 * [BitMessage](https://bitmessage.org/wiki/Main_Page) - anonymous encrypted message broadcasting. **Discontinued!** (unmaintained for years)
 * [Berty](https://github.com/berty/berty) - anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
+* [Briar](https://briarproject.org/) - peer-to-peer encrypted messaging over Tor, Wi-Fi or Bluetooth, built for activists and journalists.
+* [Cwtch](https://cwtch.im/) - metadata-resistant, decentralized group messaging built on Tor onion services.
+* [Delta Chat](https://delta.chat/) - decentralized messenger with end-to-end encryption that works over the existing e-mail network.
 * [disaster.radio](https://disaster.radio) - a disaster-resilient communications network powered by the sun. **Discontinued!**
 * [LevelNews](https://levelnews.org/) - a leftist news aggregator designed for an open web, and dedicated to journalism without censorship. **Discontinued!**
 * [LibreMesh](https://libremesh.org/) - a modular framework for creating OpenWrt/LEDE-based firmwares for wireless mesh nodes.
+* [Meshtastic](https://meshtastic.org/) - open-source, off-grid mesh communication over inexpensive LoRa radios.
 * [Mobilizon](https://joinmobilizon.org/) -  a federated tool that helps you find, create and organise events.
 * [Retroshare](https://retroshare.cc/) -  establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail
 * [Ricochet](https://ricochet.im/) - completely anonymous and potentially metadata-free chat **Discontinued!**
 * [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - new updated version of Ricochet
+* [SimpleX Chat](https://simplex.chat/) - private messenger without any user identifiers, using decentralized relay servers.
 * [Librem](https://librem.one) - Librem One is a growing bundle of ethical services.
 * [Jami](https://jami.net/) - Distributed p2p communication(text, voice and video) free and open-source software.
 
@@ -90,6 +104,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - a private, encrypted file storage system that decentralizes data across multiple servers.
 * [Tribler](https://www.tribler.org) - Privacy enhanced BitTorrent client with P2P content discovery.
 * [Swarm](https://github.com/ethersphere/swarm) - a distributed storage platform and content distribution service of the ethereum stack. **Discontinued!** (repository archived)
+* [Syncthing](https://syncthing.net/) - continuous peer-to-peer file synchronization between devices, without any central server.
 * [WebTorrent](https://webtorrent.io/) - an in-browser torrenting that works without requiring users to install anything extra.
 * [Wikipediap2p](https://guerrerocarlos.github.io/WikiP2P.org/) - a p2p version of wikipedia. **Discontinued!**
 
@@ -98,17 +113,23 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [ferment](https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application. **Discontinued!** (repository deleted)
 * [Mediachain](http://www.mediachain.io/) -  a media library built on IPFS that makes it easy to publish, track, and discover creative work. **Discontinued!** (acquired by Spotify in 2017)
 * [Mediagoblin](https://mediagoblin.org/) - a free software media publishing platform alternative to Flickr, YouTube, SoundCloud.
+* [Owncast](https://owncast.online/) - self-hosted live video streaming with ActivityPub federation.
 * [PeerTube](https://joinpeertube.org/) - Decentralized federated video streaming platform using P2P, ActivityPub and WebTorrent.
 * [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
 
 ### Microblogging and Social Network
+* [Bluesky](https://bsky.app/) - decentralized social network built on the AT Protocol, with self-hostable personal data servers.
+* [BookWyrm](https://joinbookwyrm.com/) - federated social reading and book reviews, on ActivityPub.
 * [Dat Medium](https://github.com/kewitz/dat-medium) - Dat Medium is markdown blog system for Beaker inspired by Medium. **Discontinued!**
 * [diaspora*](https://diasporafoundation.org/) - decentralized and federated social media platform.
 * [Friendica](https://friendi.ca/) - decentralized and federated social media platform.
+* [GoToSocial](https://gotosocial.org/) - lightweight ActivityPub social network server.
 * [Hubzilla](https://hubzilla.org/) - decentralized and federated social media platform.
+* [Lemmy](https://join-lemmy.org/) - federated link aggregator and discussion forum, on ActivityPub.
 * [Mastodon](https://mastodon.social) - decentralized alternative to twitter, with servers federation.
 * [Patchwork](https://github.com/ssbc/patchwork) - a decentralized messaging and sharing app built on top of Secure Scuttlebutt. **Discontinued!** (repository archived; successor: Manyverse)
 * [Manyverse](https://www.manyver.se/) - An iOS and Android mobile app for the decentralized messaging and sharing app built on top of Secure Scuttlebutt
+* [Pixelfed](https://pixelfed.org/) - federated photo sharing, on ActivityPub.
 * [Pleroma](https://pleroma.social/) - a federated social networking platform.
 * [Socialhome](https://socialhome.network/) - decentralized and federated profile builder with social networking features.
 * [Tahrir](http://tahrirproject.org/) - looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. **Discontinued!**
@@ -116,6 +137,7 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 * [Twister](http://twister.net.co/) - a fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. **Discontinued!**
 
 ### Miscellaneous
+* [Keyoxide](https://keyoxide.org/) - decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
 * [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 * [OpenTimeStamps](https://opentimestamps.org/) - OpenTimestamps aims to be a standard format for blockchain timestamping.
 * [StrongLink](https://github.com/btrask/stronglink) - a searchable, syncable, content-addressable notetaking system **Discontinued!**
