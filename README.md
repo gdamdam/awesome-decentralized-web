@@ -7,7 +7,7 @@ Thanks to the [Decentralized Web Summit](https://web.archive.org/web/2018/https:
 **Scope.** This list is about the *decentralized web*: peer-to-peer protocols, federated applications, and distributed data — projects where decentralization is the core design, not a feature or a marketing claim.
 
 **Out of scope — submissions will be closed without review:**
-- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects. (Merely *using* an existing Blockchain as a neutral public record, with no token of its own, can qualify — see the contributing guide below.)
+- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects. (Merely *using* an existing blockchain as a neutral public record, with no token of its own, can qualify — see the contributing guide below.)
 - AI tools, agent frameworks, and "decentralized AI" platforms.
 - Commercial products without significant open-source or decentralized relevance.
 
@@ -176,7 +176,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ### Identity & Key Management
 - [Dark Crystal](https://darkcrystal.pw/) - Set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys. **Dormant**
 - [Keyoxide](https://keyoxide.org/) - Decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
-- [OpenTimestamps](https://opentimestamps.org/) - A standard format for Blockchain timestamping.
+- [OpenTimestamps](https://opentimestamps.org/) - A standard format for blockchain timestamping.
 
 ### Miscellaneous
 - [Librem](https://librem.one) - A growing bundle of ethical services by Purism.
@@ -188,7 +188,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [AvionDB](https://github.com/dappkit/aviondb) - Mongodb-like database on top of OrbitDB. **Discontinued!**
 - [Backfeed](https://github.com/Backfeed/backfeed) - A technology to enable decentralized and user-owned governance and reputation management for a community. **Discontinued!**
 - [Beaker](https://github.com/beakerbrowser/beaker) - A peer-to-peer Web browser, made for users to run applications independently of hosts. **Discontinued!**
-- [BigchainDB](https://www.bigchaindb.com/) - A scalable database that layers Blockchain technology over decentralized data. **Discontinued!**
+- [BigchainDB](https://www.bigchaindb.com/) - A scalable database that layers blockchain technology over decentralized data. **Discontinued!**
 - [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous peer-to-peer media network. YouTube meets BitTorrent meets Bitcoin. **Discontinued!**
 - [BitMessage](https://bitmessage.org/wiki/Main_Page) - Anonymous encrypted message broadcasting. **Discontinued!** (unmaintained for years).
 - [bitnation](https://web.archive.org/web/2019/https://bitnation.co/) - The World's First Virtual Nation – a Blockchain Jurisdiction. **Discontinued!** (dead; domain now serves unrelated spam, link goes to an archived copy).
@@ -222,10 +222,10 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [ZeroNet](https://zeronet.io/) - A peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains. **Discontinued!** (community fork: [zeronet-conservancy](https://github.com/zeronet-conservancy/zeronet-conservancy)).
 
 ## Other Related Lists
+
+- [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and technologies aiming at decentralisation.
 - [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
 - [delightful-fediverse-apps](https://codeberg.org/fediverse/delightful-fediverse-apps) - A curated list of Fediverse applications and services.
-- [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and technologies aiming at decentralisation.
-
 ## Contributors
 - [Contributors](https://github.com/gdamdam/awesome-decentralized-web/graphs/contributors)
 

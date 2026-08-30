@@ -54,5 +54,5 @@ jobs:
                 --state open --json number --jq '.[0].number // empty')
           if [ -n "$n" ]; then
             gh issue close "$n" --repo "$GITHUB_REPOSITORY" \
-              --comment "All projects healthy as of $(date -u +%Y-%m-%d). Closing."
+              --comment "All monitored checks passed as of $(date -u +%Y-%m-%d); exempt entries received homepage checks only. Closing."
           fi

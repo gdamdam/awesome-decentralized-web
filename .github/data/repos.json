@@ -36,7 +36,7 @@
  },
  "Decentralized Identifiers": {
   "note": "finished W3C Recommendation",
-  "repo": "w3c/did-core",
+  "repo": "w3c/did",
   "stable": true
  },
  "Decentralized Web Nodes": "decentralized-identity/decentralized-web-node",
