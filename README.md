@@ -26,19 +26,26 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [Matrix](https://matrix.org/) - An open standard for decentralised persistent communication over IP. Matrix wants to connect together all the various communication services and make them interoperate.
 - [Nostr](https://nostr.com/) - A simple, open protocol that enables censorship-resistant, global social networking.
 - [Scuttlebutt](https://www.scuttlebutt.nz/) - A decent(ralised), offline-friendly secure gossip protocol. **Dormant**
+- [XMPP](https://xmpp.org/) - The Extensible Messaging and Presence Protocol, an open IETF standard for federated messaging with thousands of independently operated servers.
 
 ### P2P Networking & Data Transfer
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) - Protocol for distributed file sharing.
+- [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 overlay network with distributed hash table routing.
 - [GNUnet](https://gnunet.org/) - A network protocol stack for building secure, distributed, and privacy-preserving applications, with strong roots in academic research.
 - [Hypercore Protocol](https://github.com/holepunchto/hypercore) - A fast, scalable, and secure peer-to-peer protocol for everyone (evolution of the [Dat Protocol](https://datproject.org)), now maintained by [Holepunch](https://holepunch.to/) as part of the Pear runtime.
 - [IPFS](https://ipfs.tech/) - The InterPlanetary File System, a content-addressed, peer-to-peer protocol for storing and sharing data.
+- [IPLD](https://ipld.io/) - A content-addressed linked-data model underlying IPFS and related systems.
 - [Iroh](https://www.iroh.computer/) - A toolkit for direct peer-to-peer connectivity: QUIC hole-punching, content-addressed blobs and document sync.
 - [libp2p](https://libp2p.io/) - A modular peer-to-peer networking stack, the connectivity layer used by IPFS and many other decentralized projects.
+- [Named Data Networking](https://named-data.net/) - A content-centric Internet architecture with active research implementations such as NFD.
 - [WebRTC](https://en.wikipedia.org/wiki/WebRTC) - W3C drafted standard for browser-to-browser data transfer.
+- [Yggdrasil](https://yggdrasil-network.github.io/) - An end-to-end encrypted IPv6 overlay network that scales without central coordination.
 
 ### Application Frameworks
+- [Fedify](https://fedify.dev/) - A TypeScript framework for building federated server applications on ActivityPub.
 - [Freenet](https://freenet.org/) - A decentralized, real-time platform for building and running applications entirely on a peer-to-peer network; a ground-up rewrite by the original Freenet founder (the classic Freenet lives on as Hyphanet).
 - [Holochain](https://github.com/holochain/holochain) - A peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
+- [Pear](https://pears.com/) - A peer-to-peer application runtime and deployment system built on Hypercore, by Holepunch.
 - [Spritely](https://spritely.institute/) - Distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
 - [Veilid](https://veilid.com/) - An open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
 - [WebXDC](https://webxdc.org/) - A specification for portable web apps that run inside chat messages and sync over any transport, with no server of their own.
@@ -57,6 +64,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [Reticulum](https://reticulum.network/) - Cryptography-based networking stack for building resilient networks over almost any medium: LoRa, packet radio, WiFi or TCP/IP.
 
 ### Identity & Personal Data
+- [Decentralized Identifiers](https://www.w3.org/TR/did-core/) - W3C standard for globally unique, cryptographically verifiable identifiers that need no central registry.
 - [Decentralized Web Nodes](https://identity.foundation/decentralized-web-node/spec/) - A mesh-like datastore construction that supports sync, built in permissions, and dynamic interactions between other nodes. **Dormant**
 - [Encrypted Data Vaults](https://identity.foundation/edv-spec/) - A privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. **Dormant**
 - [remoteStorage](https://remotestorage.io/) - An open protocol for decoupling data from apps.
@@ -69,6 +77,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 ### Social Networks (Fediverse & beyond)
 - [Akkoma](https://akkoma.social/) - Actively developed fork of Pleroma, a lightweight federated social networking server on ActivityPub.
 - [Bluesky](https://bsky.app/) - Decentralized social network built on the AT Protocol, with self-hostable personal data servers.
+- [Bonfire](https://bonfirenetworks.org/) - Modular open-source framework and application for building federated digital spaces.
 - [BookWyrm](https://joinbookwyrm.com/) - Federated social reading and book reviews, on ActivityPub.
 - [diaspora*](https://diasporafoundation.org/) - Decentralized and federated social media platform. **Dormant**
 - [Friendica](https://friendi.ca/) - Decentralized and federated social media platform.
@@ -102,6 +111,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [Retroshare](https://retroshare.cc/) - Establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail.
 - [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - New updated version of Ricochet.
 - [SimpleX Chat](https://simplex.chat/) - Private messenger without any user identifiers, using decentralized relay servers.
+- [Tox](https://tox.chat/) - Serverless peer-to-peer encrypted messaging protocol and implementations (its security model has not received a full independent audit).
 
 ### Code & Collaboration
 - [Darcs](http://darcs.net/) - Free and open source cross-platform distributed version control system. **Dormant**
@@ -187,6 +197,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 
 ## Other Related Lists
 - [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
+- [delightful-fediverse-apps](https://codeberg.org/fediverse/delightful-fediverse-apps) - A curated list of Fediverse applications and services.
 - [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and technologies aiming at decentralisation.
 
 ## Contributors

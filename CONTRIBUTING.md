@@ -11,6 +11,8 @@ A project must meet **all** of these:
 3. **Alive or stable.** Meaningful activity (commits, releases, community) within the last 18 months, or mature software that is quiet because it is finished — still working and still used. Projects that go quiet *after* being listed are not removed; they are marked **Dormant** (see the removal policy below).
 4. **Adopted.** Some evidence people actually use it: a real user community, deployed instances, or roughly 100+ stars. This list is not a launch platform for brand-new projects.
 
+Note: ActivityPub support alone does not qualify a project — otherwise this would become a directory of every CMS with a federation plugin. Decentralization must be foundational to the design; for exhaustive Fediverse coverage see the dedicated lists under *Other Related Lists*.
+
 ## What does not belong here
 
 These are closed without review, regardless of technical merit:
