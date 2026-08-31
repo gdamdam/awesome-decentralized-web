@@ -209,7 +209,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [LevelNews](https://web.archive.org/web/2018/https://levelnews.org/) - A leftist news aggregator designed for an open web, and dedicated to journalism without censorship. **Discontinued!**
 - [libdweb](https://github.com/mozilla/libdweb) - A community effort to implement experimental APIs enabling dweb protocols in Firefox. **Discontinued!**
 - [Mediachain](https://github.com/mediachain/mediachain) - A media library built on IPFS that makes it easy to publish, track, and discover creative work. **Discontinued!** (acquired by Spotify in 2017).
-- [Onename](https://onename.com/) - Domain registar for Blockstack. **Discontinued!**
+- [Onename](https://onename.com/) - Domain registrar for Blockstack. **Discontinued!**
 - [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators. **Discontinued!** (shut down in 2021).
 - [ORC](https://web.archive.org/web/2018/https://orcproject.github.io/) - The Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued!**
 - [Patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt. **Discontinued!** (repository archived; successor: Manyverse).
