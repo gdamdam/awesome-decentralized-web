@@ -8,6 +8,14 @@ on:
   pull_request:
     paths:
       - 'README.md'
+  # Direct README pushes get the full non-blocking audit too, so a bad
+  # link doesn't sit unnoticed until Monday. Runs the weekly-audit job
+  # (event_name != 'pull_request'), which maintains the persistent issue.
+  push:
+    branches:
+      - master
+    paths:
+      - 'README.md'
 
 permissions:
   contents: read
