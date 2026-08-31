@@ -1,7 +1,7 @@
 # Awesome Decentralized Web [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list about the decentralized technologies and tools to develop decentralized applications.
+A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools.
 Thanks to the [Decentralized Web Summit](https://web.archive.org/web/2018/https://www.decentralizedweb.net/) for the inspiration.
 
 **Scope.** This list is about the *decentralized web*: peer-to-peer protocols, federated applications, and distributed data — projects where decentralization is the core design, not a feature or a marketing claim.
