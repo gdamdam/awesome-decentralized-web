@@ -9,7 +9,7 @@ A project must meet **all** of these:
 1. **Decentralization is the core design.** Peer-to-peer, federated, or distributed by architecture — not a centralized product with a "decentralized" feature or marketing angle.
 2. **Open source with a working implementation.** Specs and protocols are welcome if they have at least one real implementation.
 3. **Alive or stable.** Meaningful activity (commits, releases, community) within the last 18 months, or mature software that is quiet because it is finished — still working and still used. Projects that go quiet *after* being listed are not removed; they are marked **Dormant** (see the removal policy below).
-4. **Adopted.** Some evidence people actually use it: a real user community, deployed instances, or roughly 100+ stars. This list is not a launch platform for brand-new projects.
+4. **Notable.** Some credible signal beyond the project's own marketing: a user community, deployed instances, packages or integrations, independent articles or conference talks, security audits, public funding (e.g. NLnet/NGI), or roughly 100+ repository stars. Privacy-preserving networks can't measure their users — independent third-party attention counts. This list is not a launch platform for brand-new projects.
 
 Note: ActivityPub support alone does not qualify a project — otherwise this would become a directory of every CMS with a federation plugin. Decentralization must be foundational to the design; for exhaustive Fediverse coverage see the dedicated lists under *Other Related Lists*.
 

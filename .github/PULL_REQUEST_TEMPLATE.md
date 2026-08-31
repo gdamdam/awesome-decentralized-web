@@ -36,10 +36,12 @@ Merely using IPFS or describing a project as “Web3” is not sufficient.
 Link to recent commits, releases, development activity, or evidence that mature software remains usable.
 -->
 
-**Evidence of real adoption:**
+**Evidence of notability (any credible third-party signal):**
 
 <!--
-Examples include an active community, deployed instances, documented users, integrations, or approximately 100 or more repository stars.
+Examples include an active community, deployed instances, packages or integrations, independent articles or conference talks, security audits, public funding (e.g. NLnet/NGI), or approximately 100 or more repository stars.
+
+Privacy-preserving networks cannot measure their users — independent third-party attention counts.
 
 This list is not a launch platform for brand-new projects.
 -->
@@ -73,7 +75,7 @@ If claiming this exception, explain it below.
 - [ ] The project is open source and has a working implementation.
 - [ ] Decentralization is fundamental to its architecture.
 - [ ] I provided evidence of recent activity or mature stability.
-- [ ] I provided evidence of real adoption.
+- [ ] I provided evidence of notability (a credible third-party signal).
 - [ ] The project complies with the cryptocurrency, token, and AI exclusions.
 - [ ] The entry uses the required format.
 - [ ] The entry is placed alphabetically in the correct section.
