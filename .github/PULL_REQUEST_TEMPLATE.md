@@ -18,33 +18,6 @@ Read CONTRIBUTING.md before submitting.
 - [Project name](https://example.org/) - Short, factual description.
 ```
 
-## Why it belongs
-
-**Why is decentralization fundamental to the project’s architecture?**
-
-<!--
-Explain whether it is peer-to-peer, federated, local-first, or otherwise decentralized.
-
-Identify any required central servers, operators, directories, relays, bootstrap nodes, or hosted services.
-
-Merely using IPFS or describing a project as “Web3” is not sufficient.
--->
-
-**Evidence that the project is active or mature and stable:**
-
-<!--
-Link to recent commits, releases, development activity, or evidence that mature software remains usable.
--->
-
-**Evidence of notability (any credible third-party signal):**
-
-<!--
-Examples include an active community, deployed instances, packages or integrations, independent articles or conference talks, security audits, public funding (e.g. NLnet/NGI), or approximately 100 or more repository stars.
-
-Privacy-preserving networks cannot measure their users — independent third-party attention counts.
-
-This list is not a launch platform for brand-new projects.
--->
 
 ## Exclusion checks
 
@@ -74,8 +47,6 @@ If claiming this exception, explain it below.
 - [ ] I am submitting only one project.
 - [ ] The project is open source and has a working implementation.
 - [ ] Decentralization is fundamental to its architecture.
-- [ ] I provided evidence of recent activity or mature stability.
-- [ ] I provided evidence of notability (a credible third-party signal).
 - [ ] The project complies with the cryptocurrency, token, and AI exclusions.
 - [ ] The entry uses the required format.
 - [ ] The entry is placed alphabetically in the correct section.

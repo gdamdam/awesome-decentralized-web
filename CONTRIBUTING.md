@@ -4,7 +4,7 @@ Thanks for helping keep this list useful. Read this before opening a PR — subm
 
 ## What belongs here
 
-A project must meet **all** of these:
+A project should meet **all** of these:
 
 1. **Decentralization is the core design.** Peer-to-peer, federated, or distributed by architecture — not a centralized product with a "decentralized" feature or marketing angle.
 2. **Open source with a working implementation.** Specs and protocols are welcome if they have at least one real implementation.
