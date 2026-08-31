@@ -26,7 +26,7 @@ These are closed without review, regardless of technical merit:
 ## How to submit
 
 - One project per pull request.
-- Entry format: `* [Name](https://example.org/) - short description in plain English.`
+- Entry format: `- [Name](https://example.org/) - Short, factual description that starts with a capital letter and ends with punctuation.`
 - Add the entry to the correct section, in alphabetical order.
 - In the PR description, explain **why decentralization is core to the project** and how it meets the criteria above. The PR template asks for this — PRs that skip it are closed.
 
