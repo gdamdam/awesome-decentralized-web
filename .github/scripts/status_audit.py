@@ -129,21 +129,25 @@ for name, url in entries:
         except Exception as e:
             failures.append((name, url, f"{type(e).__name__}: {e}"))
 
+# (title, items, actionable) — only actionable sections count as findings
+# and keep the report issue open. Release age alone is informational:
+# push activity is the stronger signal, and many active repos simply
+# don't cut releases.
 sections = [
     ("🚨 Archived repositories (move to Graveyard?)",
-     [f"- **{n}** — {u}" for n, u in archived]),
+     [f"- **{n}** — {u}" for n, u in archived], True),
     ("🚨 Unreachable homepages (DNS or HTTP failure)",
-     [f"- **{n}** — {u} — {msg}" for n, u, msg in failures]),
+     [f"- **{n}** — {u} — {msg}" for n, u, msg in failures], True),
     ("⚠️ Cross-domain redirects (possible rebrand or hijack — inspect!)",
-     [f"- **{n}** — {u} — {msg}" for n, u, msg in redirects]),
+     [f"- **{n}** — {u} — {msg}" for n, u, msg in redirects], True),
     (f"⚠️ No push in {STALE_MONTHS}+ months (Dormant candidates)",
-     [f"- **{n}** — {u} — {msg}" for n, u, msg in stale]),
-    (f"ℹ️ No release in {STALE_MONTHS}+ months (repo may still be active)",
-     [f"- **{n}** — {u} — {msg}" for n, u, msg in no_release]),
+     [f"- **{n}** — {u} — {msg}" for n, u, msg in stale], True),
+    (f"ℹ️ No release in {STALE_MONTHS}+ months (informational — repo push activity is checked separately)",
+     [f"- **{n}** — {u} — {msg}" for n, u, msg in no_release], False),
     ("ℹ️ API errors during this run (retry or investigate)",
-     [f"- **{n}** ({r}) — {msg}" for n, r, msg in api_errors]),
+     [f"- **{n}** ({r}) — {msg}" for n, r, msg in api_errors], True),
     (f"⚠️ Entries with no repository mapping or exemption (add to `{REPO_MAP_FILE}`)",
-     [f"- **{n}**" for n in unmapped]),
+     [f"- **{n}**" for n in unmapped], True),
 ]
 
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -152,15 +156,20 @@ coverage = (f"Coverage: {len(entries)} live entries — {monitored} repository-m
             f"{len(exempt_names)} exempt with a documented reason, {len(unmapped)} unmapped.")
 lines = [f"# Quarterly status audit — {today}", "", coverage, ""]
 findings = 0
-for title, items in sections:
+info_items = 0
+for title, items, actionable in sections:
     if items:
-        findings += len(items)
+        if actionable:
+            findings += len(items)
+        else:
+            info_items += len(items)
         lines += [f"## {title}", ""] + items + [""]
 if exempt_names:
     lines += ["## ℹ️ Exempt entries (homepage checks only; reasons in repos.json)", "",
               ", ".join(sorted(exempt_names)), ""]
 if findings == 0:
-    lines.append(f"All monitored checks passed. {coverage}")
+    note = " Informational items above need no action." if info_items else ""
+    lines.append(f"No actionable findings.{note} {coverage}")
 open(REPORT, "w").write("\n".join(lines) + "\n")
 print(f"{findings} findings; {coverage}")
 sys.exit(1 if findings else 0)
