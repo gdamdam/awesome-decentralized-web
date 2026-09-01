@@ -123,7 +123,7 @@ Entries marked **Dormant** still work but have seen no meaningful development fo
 - [PieFed](https://piefed.social/) - Federated link aggregator and discussion forum with a focus on moderation tooling, on ActivityPub.
 - [Pixelfed](https://pixelfed.org/) - Federated photo sharing, on ActivityPub.
 - [Pleroma](https://pleroma.social/) - A federated social networking platform.
-- [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features. **Dormant**
+- [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
 
 ### Media Streaming & Publishing
 - [Castopod](https://castopod.org/) - Self-hosted podcast hosting with ActivityPub federation.
