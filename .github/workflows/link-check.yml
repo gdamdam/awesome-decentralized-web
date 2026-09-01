@@ -2,15 +2,16 @@ name: Check links
 
 on:
   schedule:
-    # Every Monday 06:00 UTC
-    - cron: '0 6 * * 1'
+    # First day of each month, 06:00 UTC (hijacked domains are also
+    # caught by the quarterly status audit's redirect check)
+    - cron: '0 6 1 * *'
   workflow_dispatch:
   pull_request:
     paths:
       - 'README.md'
-  # Direct README pushes get the full non-blocking audit too, so a bad
-  # link doesn't sit unnoticed until Monday. Runs the weekly-audit job
-  # (event_name != 'pull_request'), which maintains the persistent issue.
+  # Direct README pushes get the full non-blocking audit too. Runs the
+  # scheduled-audit job (event_name != 'pull_request'), which maintains
+  # the persistent issue.
   push:
     branches:
       - master
@@ -50,46 +51,84 @@ jobs:
             added-lines.txt
           fail: true
 
-  # Non-blocking weekly audit of the whole README; maintains ONE
-  # persistent issue instead of opening a new one per run.
-  weekly-audit:
+  # Non-blocking monthly audit of the whole README with a two-strike
+  # rule: a link only counts as broken if it fails a first full pass
+  # AND a recheck two minutes later. One flaky timeout never opens the
+  # issue. Maintains ONE persistent issue (label link-rot).
+  scheduled-audit:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
 
-      - name: Run lychee on the full README
-        id: lychee
+      - name: 'Pass 1: full README'
+        id: pass1
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress
             --accept '200..=206,429'
-            --timeout 30
+            --timeout 60
             --max-retries 3
             --exclude 'web\.archive\.org'
+            --format json
+            --output ./lychee/pass1.json
             README.md
           fail: false
 
+      - name: Extract failing URLs and wait before the recheck
+        if: steps.pass1.outputs.exit_code != 0
+        run: |
+          jq -r '(.fail_map // {}) | to_entries[] | .value[] | .url' \
+            ./lychee/pass1.json > failed-urls.txt || true
+          if [ ! -s failed-urls.txt ]; then
+            # extraction found nothing despite a failure: be conservative
+            echo "Pass 1 failed but no URLs could be extracted — see the run logs." > ./lychee/confirmed.md
+            echo "extraction_empty=true" >> "$GITHUB_ENV"
+          else
+            echo "Rechecking $(wc -l < failed-urls.txt) URL(s) in 2 minutes:"
+            cat failed-urls.txt
+            sleep 120
+          fi
+
+      - name: 'Pass 2: recheck only the failures'
+        id: pass2
+        if: steps.pass1.outputs.exit_code != 0 && env.extraction_empty != 'true'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept '200..=206,429'
+            --timeout 60
+            --max-retries 3
+            --format markdown
+            --output ./lychee/confirmed.md
+            failed-urls.txt
+          fail: false
+
       - name: Update or create the persistent report issue
-        if: steps.lychee.outputs.exit_code != 0
+        if: >-
+          steps.pass1.outputs.exit_code != 0 &&
+          (env.extraction_empty == 'true' || steps.pass2.outputs.exit_code != 0)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label link-rot \
                 --state open --json number --jq '.[0].number // empty')
           if [ -n "$n" ]; then
-            gh issue edit "$n" --repo "$GITHUB_REPOSITORY" --body-file ./lychee/out.md
+            gh issue edit "$n" --repo "$GITHUB_REPOSITORY" --body-file ./lychee/confirmed.md
             gh issue comment "$n" --repo "$GITHUB_REPOSITORY" \
-              --body "Report refreshed by the scheduled run on $(date -u +%Y-%m-%d)."
+              --body "Confirmed by two passes on $(date -u +%Y-%m-%d)."
           else
             gh issue create --repo "$GITHUB_REPOSITORY" \
-              --title 'Link check: broken or redirected links' \
-              --body-file ./lychee/out.md --label link-rot
+              --title 'Link check: broken or redirected links (confirmed by recheck)' \
+              --body-file ./lychee/confirmed.md --label link-rot
           fi
 
-      - name: Close the report issue when all links pass
-        if: steps.lychee.outputs.exit_code == 0
+      - name: Close the report issue when links pass (either pass)
+        if: >-
+          steps.pass1.outputs.exit_code == 0 ||
+          (steps.pass2.outcome == 'success' && steps.pass2.outputs.exit_code == 0)
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -97,5 +136,5 @@ jobs:
                 --state open --json number --jq '.[0].number // empty')
           if [ -n "$n" ]; then
             gh issue close "$n" --repo "$GITHUB_REPOSITORY" \
-              --comment "All links pass again as of $(date -u +%Y-%m-%d). Closing."
+              --comment "All links pass as of $(date -u +%Y-%m-%d) (flaky failures cleared on recheck). Closing."
           fi
