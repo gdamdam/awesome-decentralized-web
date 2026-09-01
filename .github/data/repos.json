@@ -9,6 +9,7 @@
   "exempt": "developed at akkoma.dev (self-hosted Gitea)"
  },
  "Automerge": "automerge/automerge",
+ "BitMessage": "Bitmessage/PyBitmessage",
  "BitTorrent": {
   "exempt": "protocol family; no canonical repository"
  },

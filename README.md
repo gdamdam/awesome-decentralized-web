@@ -135,6 +135,7 @@ Entries marked **Dormant** still work but their source repository has had no act
 
 ### P2P Messaging
 - [Berty](https://github.com/berty/berty) - Anonymous, secure, peer-to-peer protocol that doesn't need an internet connection to function.
+- [BitMessage](https://wiki.bitmessage.org/) - Anonymous encrypted message broadcasting over a peer-to-peer network.
 - [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging over Tor, Wi-Fi or Bluetooth, built for activists and journalists.
 - [Cwtch](https://cwtch.im/) - Metadata-resistant, decentralized group messaging built on Tor onion services.
 - [Delta Chat](https://delta.chat/) - Decentralized messenger with end-to-end encryption that works over the existing e-mail network.
@@ -195,7 +196,6 @@ Entries marked **Dormant** still work but their source repository has had no act
 - [Beaker](https://github.com/beakerbrowser/beaker) - A peer-to-peer Web browser, made for users to run applications independently of hosts. **Discontinued!**
 - [BigchainDB](https://www.bigchaindb.com/) - A scalable database that layers blockchain technology over decentralized data. **Discontinued!**
 - [Bit451](https://github.com/Bit451/Bit451) - Decentralized / distributed anonymous peer-to-peer media network. YouTube meets BitTorrent meets Bitcoin. **Discontinued!**
-- [BitMessage](https://bitmessage.org/wiki/Main_Page) - Anonymous encrypted message broadcasting. **Discontinued!** (unmaintained for years).
 - [bitnation](https://web.archive.org/web/2019/https://bitnation.co/) - The World's First Virtual Nation – a Blockchain Jurisdiction. **Discontinued!** (dead; domain now serves unrelated spam, link goes to an archived copy).
 - [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - A distributed caching platform. **Discontinued!**
 - [Cryptosphere](https://github.com/cryptosphere/cryptosphere) - An open-source P2P web application platform for decentralized, privacy-preserving software. **Discontinued!**
