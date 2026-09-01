@@ -32,6 +32,6 @@ These are closed without review, regardless of technical merit:
 
 ## Removal policy
 
-- Projects with no meaningful development activity for roughly 2 years, whose software still works, are marked **Dormant**.
+- **Dormant** marks projects with no repository activity for over 2 years (the tag shows the date). It is applied only from measured repository data and removed when activity resumes.
 - Dormant projects move to the **Graveyard** section when they stop working, archive their repository, shut down, or lose their domain (we keep the historical record).
 - Links whose domains are squatted, hijacked, or repurposed for spam are removed or repointed to archived copies immediately. If you spot one, please open an issue, or a PR if issue creation is unavailable to you.

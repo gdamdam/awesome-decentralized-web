@@ -67,7 +67,7 @@ except Exception:
 
 archived, stale, failures, redirects, no_release, api_errors, unmapped = \
     [], [], [], [], [], [], []
-exempt_names = []
+exempt_names, wrong_tags = [], []
 
 for name, url in entries:
     m = re.match(r"https://github\.com/([\w.-]+)/([\w.-]+)", url)
@@ -90,6 +90,10 @@ for name, url in entries:
     elif repo is None:
         unmapped.append(name)
 
+    # Dormant is data-only: a tag without measurable evidence is invalid
+    if dormant_tagged and repo is None:
+        wrong_tags.append((name, "tagged Dormant but activity is not measurable — remove the tag"))
+
     # repository health (archival, pushes, releases)
     if repo:
         try:
@@ -99,6 +103,8 @@ for name, url in entries:
             age = months_ago(d["pushed_at"])
             if age > STALE_MONTHS and not quiet_ok:
                 stale.append((name, url, f"last push {d['pushed_at'][:10]} ({age:.0f} months)"))
+            if dormant_tagged and age <= STALE_MONTHS:
+                wrong_tags.append((name, f"tagged Dormant but the repository pushed {d['pushed_at'][:10]} — remove the tag"))
             if not quiet_ok:
                 try:
                     rel = gh(f"/repos/{repo}/releases/latest")
@@ -148,6 +154,8 @@ sections = [
      [f"- **{n}** ({r}) — {msg}" for n, r, msg in api_errors], True),
     (f"⚠️ Entries with no repository mapping or exemption (add to `{REPO_MAP_FILE}`)",
      [f"- **{n}**" for n in unmapped], True),
+    ("⚠️ Dormant tags contradicted by the data (Dormant is data-only)",
+     [f"- **{n}** — {msg}" for n, msg in wrong_tags], True),
 ]
 
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
