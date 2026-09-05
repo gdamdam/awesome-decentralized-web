@@ -72,8 +72,8 @@ jobs:
             --max-retries 3
             --exclude 'web\.archive\.org'
             --format json
-            --output ./lychee/pass1.json
             README.md
+          output: ./lychee/pass1.json
           fail: false
 
       - name: Extract failing URLs and wait before the recheck
@@ -102,8 +102,8 @@ jobs:
             --timeout 60
             --max-retries 3
             --format markdown
-            --output ./lychee/confirmed.md
             failed-urls.txt
+          output: ./lychee/confirmed.md
           fail: false
 
       - name: Update or create the persistent report issue
