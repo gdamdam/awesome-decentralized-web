@@ -230,6 +230,7 @@ Entries marked **Dormant** still work but their source repository has had no act
 
 - [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and technologies aiming at decentralisation.
 - [Awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) - Resources for creating a Decentralized, Vendor Agnostic, Self Sovereign Identity System for people organizations and things.
+- [awesome-offline-knowledge](https://github.com/gdamdam/awesome-offline-knowledge) - Content, tools, and infrastructure for keeping knowledge accessible without the internet.
 - [awesome-resilient-communication](https://github.com/gdamdam/awesome-resilient-communication) - A curated list of open protocols, applications, hardware, and resources for communication during internet shutdowns, disasters, censorship, and off-grid operation.
 - [delightful-fediverse-apps](https://codeberg.org/fediverse/delightful-fediverse-apps) - A curated list of Fediverse applications and services.
 ## Contributors
