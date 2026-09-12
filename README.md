@@ -123,6 +123,7 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [Fedify](https://fedify.dev/) - A TypeScript framework for building federated server applications on ActivityPub.
 - [Freenet](https://freenet.org/) - A decentralized, real-time platform for building and running applications entirely on a peer-to-peer network; a ground-up rewrite by the original Freenet founder (the classic Freenet lives on as Hyphanet).
 - [Holochain](https://github.com/holochain/holochain) - A peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Pear](https://pears.com/) - A peer-to-peer application runtime and deployment system built on Hypercore, by Holepunch.
 - [Spritely](https://spritely.institute/) - Distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
 - [Veilid](https://veilid.com/) - An open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
