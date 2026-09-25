@@ -173,6 +173,7 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [Pixelfed](https://pixelfed.org/) - Federated photo sharing, on ActivityPub.
 - [Pleroma](https://pleroma.social/) - A federated social networking platform.
 - [Socialhome](https://socialhome.network/) - Decentralized and federated profile builder with social networking features.
+- [Nysiris](https://github.com/odelyzid/Nysiris) - A decentralized P2P portal system with mixnet privacy (Nym/Sphinx) built for cross-platform deployment.
 
 ### Media Streaming & Publishing
 - [Castopod](https://castopod.org/) - Self-hosted podcast hosting with ActivityPub federation.
