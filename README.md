@@ -6,7 +6,7 @@ A curated list of peer-to-peer, federated, and local-first protocols, applicatio
 
 **Out of scope:** cryptocurrencies, blockchains, tokens and other finance projects, AI tools, and commercial products without open-source relevance. Merely using an existing blockchain as a neutral public record can qualify; see the contributing guide.
 
-**Tags.** **Dormant** entries still work but their repository has been inactive for over 2 years. Dead projects live in the [Graveyard](#graveyard). Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
+**Tags.** **Dormant** entries still work but their repository has been inactive for over 2 years. Dead projects live in the Graveyard. Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
 
 **Four words that often get mixed up:**
 
