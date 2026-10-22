@@ -114,7 +114,7 @@ A curated list of peer-to-peer, federated, and local-first protocols, applicatio
 - [Mastodon](https://joinmastodon.org/) - Decentralized, federated alternative to Twitter.
 - [Mbin](https://joinmbin.org/) - Federated content aggregator and microblogging platform (community fork of /kbin), on ActivityPub.
 - [Misskey](https://misskey-hub.net/) - Feature-rich federated microblogging platform on ActivityPub (Sharkey is a popular fork).
-- [Mobilizon](https://joinmobilizon.org/) - A federated tool that helps you find, create and organise events.
+- [Mobilizon](https://mobilizon.org/) - A federated tool that helps you find, create and organise events.
 - [PieFed](https://piefed.social/) - Federated link aggregator and discussion forum with a focus on moderation tooling, on ActivityPub.
 - [Pixelfed](https://pixelfed.org/) - Federated photo sharing, on ActivityPub.
 - [Pleroma](https://pleroma.social/) - A federated social networking platform.
@@ -245,7 +245,7 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [disaster.radio](https://github.com/sudomesh/disaster-radio) - A disaster-resilient communications network powered by the sun. **Discontinued**
 - [ferment](https://web.archive.org/web/2017/https://github.com/fermentation/ferment) - Peer-to-peer audio publishing and streaming application. **Discontinued** (repository deleted).
 - [git-ssb](https://github.com/clehner/git-ssb) - Decentralized Git repo hosting and issue tracking on secure-scuttlebutt. **Discontinued** (repository archived in 2018).
-- [IPDB](https://ipdb.io/) - A federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits. **Discontinued**
+- [IPDB](https://web.archive.org/web/2019/https://ipdb.io/) - A federated database network built on BigchainDB and IPFS. It is maintained by a network of caretakers around the world, at least half of which are nonprofits. **Discontinued** (site offline; link goes to an archived copy).
 - [Jolocom](https://web.archive.org/web/2022/https://jolocom.com/) - A decentralised digital identity for everyone. **Discontinued** (domain squatted; link goes to an archived copy).
 - [LevelNews](https://web.archive.org/web/2018/https://levelnews.org/) - A leftist news aggregator designed for an open web, and dedicated to journalism without censorship. **Discontinued**
 - [libdweb](https://github.com/mozilla/libdweb) - A community effort to implement experimental APIs enabling dweb protocols in Firefox. **Discontinued**
@@ -254,7 +254,7 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [OpenBazaar](https://openbazaar.org/) - Marketplace, with store fronts and moderators. **Discontinued** (shut down in 2021).
 - [ORC](https://web.archive.org/web/2018/https://orcproject.github.io/) - The Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued**
 - [Patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt. **Discontinued** (repository archived; successor: Manyverse).
-- [PeerPad](https://peerpad.net) - A realtime P2P collaborative editing tool, powered by IPFS and CRDTs. **Discontinued**
+- [PeerPad](https://github.com/peer-base/peer-pad) - A realtime P2P collaborative editing tool, powered by IPFS and CRDTs. **Discontinued** (site offline; link goes to the source repository).
 - [Ricochet](https://github.com/ricochet-im/ricochet) - Completely anonymous and potentially metadata-free chat. **Discontinued** (domain squatted; link goes to the source repository).
 - [Rotonde](https://wiki.xxiivv.com/site/rotonde.html) - Decentralized social network defined as a shared JSON specification, whose clients ran over the Dat protocol; it faded when the Dat ecosystem wound down. **Discontinued**
 - [Samizdat](https://web.archive.org/web/2019/http://samizdat.childrenofmay.org/) - A platform for the self-hosted, peer-to-peer, cryptographically-secured internet. **Discontinued**
@@ -266,7 +266,7 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [Twister](http://twister.net.co/) - A fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols. **Discontinued**
 - [Webnative](https://github.com/oddsdk/ts-odd) - JavaScript library that decouples user data from apps and hosts it on IPFS. **Discontinued** (Fission shut down in 2024).
 - [Wikipediap2p](https://guerrerocarlos.github.io/WikiP2P.org/) - A peer-to-peer version of Wikipedia. **Discontinued**
-- [ZeroNet](https://zeronet.io/) - A peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains. **Discontinued** (community fork: [zeronet-conservancy](https://github.com/zeronet-conservancy/zeronet-conservancy)).
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A peer-to-peer web built on the Bitcoin cryptography for addressing, and identity and Namecoin for .bit domains. **Discontinued** (site offline; community fork: [zeronet-conservancy](https://github.com/zeronet-conservancy/zeronet-conservancy)).
 
 ## Other Related Lists
 
