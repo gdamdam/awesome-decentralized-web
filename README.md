@@ -135,6 +135,7 @@ A curated list of peer-to-peer, federated, and local-first protocols, applicatio
 - [Cwtch](https://cwtch.im/) - Metadata-resistant group messenger built on Tor onion services, with untrusted relay servers for offline delivery.
 - [Delta Chat](https://delta.chat/) - Decentralized messenger with end-to-end encryption that works over the existing e-mail network.
 - [Jami](https://jami.net/) - Distributed peer-to-peer communication (text, voice and video), free and open-source.
+- [MeshLive](https://github.com/MeshLive/meshlive-android) - Android beta for encrypted voice/video calls and relayed livestreams over Bluetooth, without internet or servers; not independently audited.
 - [Retroshare](https://retroshare.cc/) - Establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services: forums, channels, chat, mail.
 - [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Maintained fork of Ricochet in which every user is a Tor onion service, leaving no server-side metadata; the original was audited by NCC Group (2016), before the v3 onion migration.
 - [SimpleX Chat](https://simplex.chat/) - Private messenger without any user identifiers, using decentralized relay servers.
