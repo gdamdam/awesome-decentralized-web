@@ -255,7 +255,7 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [ORC](https://web.archive.org/web/2018/https://orcproject.github.io/) - The Onion Router Cloud, a distributed, anonymous, object storage platform owned and operated by all of us. **Discontinued**
 - [Patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt. **Discontinued** (repository archived; successor: Manyverse).
 - [PeerPad](https://peerpad.net) - A realtime P2P collaborative editing tool, powered by IPFS and CRDTs. **Discontinued**
-- [Ricochet](https://ricochet.im/) - Completely anonymous and potentially metadata-free chat **Discontinued**
+- [Ricochet](https://github.com/ricochet-im/ricochet) - Completely anonymous and potentially metadata-free chat. **Discontinued** (domain squatted; link goes to the source repository).
 - [Rotonde](https://wiki.xxiivv.com/site/rotonde.html) - Decentralized social network defined as a shared JSON specification, whose clients ran over the Dat protocol; it faded when the Dat ecosystem wound down. **Discontinued**
 - [Samizdat](https://web.archive.org/web/2019/http://samizdat.childrenofmay.org/) - A platform for the self-hosted, peer-to-peer, cryptographically-secured internet. **Discontinued**
 - [Shift](https://www.shiftnrg.org) - Decentralized hosting infrastructure for dApps. **Discontinued**
