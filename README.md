@@ -1,31 +1,18 @@
 # Awesome Decentralized Web [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools. Inspired by the [Decentralized Web Summit](https://web.archive.org/web/2018/https://www.decentralizedweb.net/).
 
-A curated list of peer-to-peer, federated, and local-first protocols, applications, and developer tools.
-Thanks to the [Decentralized Web Summit](https://web.archive.org/web/2018/https://www.decentralizedweb.net/) for the inspiration.
+**Scope.** Projects where decentralization is the core design, not a feature or a marketing claim. Cryptocurrencies, blockchains, tokens and other finance projects, AI tools, and commercial products without open-source relevance are out of scope. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the details and before submitting a project. Entries marked **Dormant** still work but their repository has been inactive for over 2 years; dead projects live in the [Graveyard](#graveyard).
 
-**Scope.** This list is about the *decentralized web*: peer-to-peer protocols, federated applications, and distributed data — projects where decentralization is the core design, not a feature or a marketing claim.
+**Four words that often get mixed up:**
 
-**Out of scope:**
-- Cryptocurrencies, blockchains, tokens, NFTs, DAOs, DeFi and other finance-related projects. (Merely *using* an existing blockchain as a neutral public record, with no token of its own, can qualify, see the contributing guide below.)
-- AI tools, agent frameworks, and "decentralized AI" platforms.
-- Commercial products without significant open-source or decentralized relevance.
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a project.
-
-Entries marked **Dormant** still work but their source repository has had no activity for over 2 years — the tag states the measured date. Dead projects live in the Graveyard section at the bottom.
-
-**A quick taxonomy** — four words that often get mixed up:
-
-- **Federated** — many independently operated servers interoperating through a shared protocol; you choose which server to trust instead of trusting a central one. *(Mastodon, Matrix, XMPP)*
-- **Peer-to-peer** — participants exchange data directly, with no single authoritative application server; trackers, bootstrap nodes or relays may assist. *(BitTorrent, Scuttlebutt, Tox)*
-- **Distributed** — only means data or computation is spread across many machines; centralized services can be distributed too. A distributed system is decentralized only when no single party controls it.
-- **Local-first** — the authoritative copy of your data lives on your own device, and the network is optional: sync happens when connectivity allows. *(software built with Automerge, Yjs or Willow)*
+- **Federated** — independent servers interoperating through a shared protocol; you choose which server to trust. *(Mastodon, Matrix, XMPP)*
+- **Peer-to-peer** — participants exchange data directly, with no authoritative application server; trackers, bootstrap nodes or relays may assist. *(BitTorrent, Scuttlebutt, Tox)*
+- **Distributed** — data or computation spread across many machines; decentralized only when no single party controls it.
+- **Local-first** — the authoritative copy of your data lives on your own device and syncs when connectivity allows. *(Automerge, Yjs, Willow)*
 
 ## Contents
 
-- [Decentralization at a Glance](#decentralization-at-a-glance)
-- [Choose by Goal](#choose-by-goal)
 - [Protocols and Technologies](#protocols-and-technologies)
   - [Federation & Social Protocols](#federation--social-protocols)
   - [P2P Networking & Data Transfer](#p2p-networking--data-transfer)
@@ -43,56 +30,11 @@ Entries marked **Dormant** still work but their source repository has had no act
   - [Anonymity & Overlay Networks](#anonymity--overlay-networks)
   - [Web, Search and Archiving](#web-search-and-archiving)
   - [Identity & Key Management](#identity--key-management)
+- [Decentralization at a Glance](#decentralization-at-a-glance)
+- [Choose by Goal](#choose-by-goal)
 - [Graveyard](#graveyard)
 - [Other Related Lists](#other-related-lists)
 - [Contributors](#contributors)
-
-## Decentralization at a Glance
-A few representative systems — deliberately not all of them — classified on the axes that decide who controls what. Decentralization is not automatically privacy, anonymity, resilience, or censorship resistance: each of those must be designed for separately, and the sibling list awesome-resilient-communication (under *Other Related Lists* below) covers several of them in depth.
-
-|System     |Model                 |User-controlled data|Self-hostable|Offline/LAN|Runs without central relays|Open protocol|Maturity     |
-|-----------|----------------------|--------------------|-------------|-----------|---------------------------|-------------|-------------|
-|Mastodon   |Federated             |◐                   |✓            |✗          |✓                          |✓ ActivityPub|Mature       |
-|Matrix     |Federated             |◐                   |✓            |✗          |◐                          |✓            |Mature       |
-|Bluesky    |Federated, hub-heavy  |◐                   |◐            |✗          |✗                          |✓ AT Protocol|Maturing     |
-|Nostr      |Relay network         |◐                   |✓            |✗          |◐                          |✓            |Maturing     |
-|Delta Chat |Federated (e-mail)    |◐                   |✓            |✗          |◐                          |✓ SMTP/IMAP  |Mature       |
-|Scuttlebutt|P2P, local-first      |✓                   |✓            |✓          |✓                          |✓            |Mature, quiet|
-|IPFS       |P2P, content-addressed|◐                   |✓            |✓          |◐                          |✓            |Mature       |
-|BitTorrent |P2P                   |✓                   |✓            |✓          |◐                          |✓ BEPs       |Mature       |
-|Syncthing  |P2P                   |✓                   |✓            |✓          |◐                          |✓            |Mature       |
-|Radicle    |P2P                   |✓                   |✓            |◐          |◐                          |✓            |Maturing     |
-|Solid      |Federated pods        |✓                   |✓            |✗          |✓                          |✓            |Experimental |
-
-✓ holds by design · ◐ partial or configuration-dependent · ✗ not provided — and in the relay column, ✓ means the system works with no centrally operated helpers at all
-
-The conditional cells, from each project's own documentation:
-
-- Mastodon and Matrix — your data lives on whichever server hosts your account, so full control means self-hosting; Mastodon migration moves followers but not posts, and Matrix replicates room history to every participating homeserver.
-- Matrix relays — nothing in the protocol requires it, but matrix.org remains the default homeserver and identity server for a large share of users.
-- Bluesky — personal data servers are practical to self-host, but Relays and AppViews are resource-intensive, so the network in practice depends on a few operators.
-- Nostr — identity is a client-side keypair, but notes persist only on the relays that accept them; any relay works and clients publish to several at once, yet some relay is always required.
-- Delta Chat — rides on ordinary e-mail, so any provider works, but some provider is always in the loop and sees message metadata.
-- Scuttlebutt — feeds replicate between mutual follows over LAN or the internet; optional pub and room servers only aid discovery.
-- IPFS — content-addressing removes location trust, but content stays retrievable only while some node pins it, and default configurations bootstrap through project-run nodes.
-- BitTorrent and Syncthing — swarms bootstrap through trackers or DHT bootstrap nodes; Syncthing's default discovery and relay servers are project-run but self-hostable, and pure-LAN sync needs neither.
-- Radicle — repositories are local Git; sharing them requires seed nodes your peers can reach.
-- Solid — the specification is stable on paper (protocol 0.10) but deployments remain small.
-
-## Choose by Goal
-Starting points, not endorsements — the trade-off column is the part to read twice.
-
-|Goal                                      |Starting points                                                                                               |What to keep in mind                                                                                    |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|Federated social publishing               |Mastodon or GoToSocial, WriteFreely for blogs, PeerTube for video                                             |You trust your server's operator and moderation; choose the instance as carefully as the software       |
-|Private peer-to-peer messaging            |Briar, Cwtch, SimpleX Chat                                                                                    |P2P is not anonymity by itself; match the tool to a threat model first                                  |
-|Local-first collaborative applications    |Automerge or Yjs, p2panda, Willow                                                                             |These are libraries and protocols, not products — sync topology and auth are still your design work     |
-|Peer-to-peer file transfer and sync       |Syncthing for continuous sync, magic-wormhole for one-shot transfers, WebTorrent in browsers                  |Default discovery and relay servers are project-run; self-host them or stay on LAN for full independence|
-|Decentralized code collaboration          |Radicle, Forgejo for federated forges, Darcs or Pijul as the VCS                                              |Radicle needs reachable seed nodes; ForgeFed federation between forges is still early                   |
-|Content-addressed publishing              |IPFS, Hypercore/Pear, Iroh                                                                                    |Content stays available only while somebody pins or seeds it                                            |
-|Decentralized identity and personal data  |Decentralized Identifiers, Solid, remoteStorage, Keyoxide                                                     |Standards are mature on paper; real-world deployments are small                                         |
-|Censorship-resistant or anonymous services|Tor onion services, I2P, Hyphanet, Ceno Browser                                                               |Anonymity is a property of the network and your own practices, not of decentralization                  |
-|Building a new decentralized application  |libp2p or Iroh for transport, Automerge or Yjs for data, Spritely or Veilid as frameworks, WebXDC inside chats|Decide early what happens when peers are offline — that choice shapes the whole design                  |
 
 ## Protocols and Technologies
 *Protocols, stacks and building blocks for a decentralized web.*
@@ -232,6 +174,56 @@ Starting points, not endorsements — the trade-off column is the part to read t
 - [Dark Crystal](https://darkcrystal.pw/) - Set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys.
 - [Keyoxide](https://keyoxide.org/) - Decentralized, cryptographic identity proofs; a self-hostable Keybase alternative.
 - [OpenTimestamps](https://opentimestamps.org/) - A standard format for blockchain timestamping.
+
+## Decentralization at a Glance
+A few representative systems — deliberately not all of them — classified on the axes that decide who controls what. Decentralization is not automatically privacy, anonymity, resilience, or censorship resistance: each of those must be designed for separately, and the sibling list awesome-resilient-communication (under *Other Related Lists* below) covers several of them in depth.
+
+|System     |Model                 |User-controlled data|Self-hostable|Offline/LAN|Runs without central relays|Open protocol|Maturity     |
+|-----------|----------------------|--------------------|-------------|-----------|---------------------------|-------------|-------------|
+|Mastodon   |Federated             |◐                   |✓            |✗          |✓                          |✓ ActivityPub|Mature       |
+|Matrix     |Federated             |◐                   |✓            |✗          |◐                          |✓            |Mature       |
+|Bluesky    |Federated, hub-heavy  |◐                   |◐            |✗          |✗                          |✓ AT Protocol|Maturing     |
+|Nostr      |Relay network         |◐                   |✓            |✗          |◐                          |✓            |Maturing     |
+|Delta Chat |Federated (e-mail)    |◐                   |✓            |✗          |◐                          |✓ SMTP/IMAP  |Mature       |
+|Scuttlebutt|P2P, local-first      |✓                   |✓            |✓          |✓                          |✓            |Mature, quiet|
+|IPFS       |P2P, content-addressed|◐                   |✓            |✓          |◐                          |✓            |Mature       |
+|BitTorrent |P2P                   |✓                   |✓            |✓          |◐                          |✓ BEPs       |Mature       |
+|Syncthing  |P2P                   |✓                   |✓            |✓          |◐                          |✓            |Mature       |
+|Radicle    |P2P                   |✓                   |✓            |◐          |◐                          |✓            |Maturing     |
+|Solid      |Federated pods        |✓                   |✓            |✗          |✓                          |✓            |Experimental |
+
+✓ holds by design · ◐ partial or configuration-dependent · ✗ not provided — and in the relay column, ✓ means the system works with no centrally operated helpers at all
+
+<details>
+<summary>Why the ◐ cells are conditional (from each project's own documentation)</summary>
+
+- Mastodon and Matrix — your data lives on whichever server hosts your account, so full control means self-hosting; Mastodon migration moves followers but not posts, and Matrix replicates room history to every participating homeserver.
+- Matrix relays — nothing in the protocol requires it, but matrix.org remains the default homeserver and identity server for a large share of users.
+- Bluesky — personal data servers are practical to self-host, but Relays and AppViews are resource-intensive, so the network in practice depends on a few operators.
+- Nostr — identity is a client-side keypair, but notes persist only on the relays that accept them; any relay works and clients publish to several at once, yet some relay is always required.
+- Delta Chat — rides on ordinary e-mail, so any provider works, but some provider is always in the loop and sees message metadata.
+- Scuttlebutt — feeds replicate between mutual follows over LAN or the internet; optional pub and room servers only aid discovery.
+- IPFS — content-addressing removes location trust, but content stays retrievable only while some node pins it, and default configurations bootstrap through project-run nodes.
+- BitTorrent and Syncthing — swarms bootstrap through trackers or DHT bootstrap nodes; Syncthing's default discovery and relay servers are project-run but self-hostable, and pure-LAN sync needs neither.
+- Radicle — repositories are local Git; sharing them requires seed nodes your peers can reach.
+- Solid — the specification is stable on paper (protocol 0.10) but deployments remain small.
+
+</details>
+
+## Choose by Goal
+Starting points, not endorsements — the trade-off column is the part to read twice.
+
+|Goal                                      |Starting points                                                                                               |What to keep in mind                                                                                    |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|Federated social publishing               |Mastodon or GoToSocial, WriteFreely for blogs, PeerTube for video                                             |You trust your server's operator and moderation; choose the instance as carefully as the software       |
+|Private peer-to-peer messaging            |Briar, Cwtch, SimpleX Chat                                                                                    |P2P is not anonymity by itself; match the tool to a threat model first                                  |
+|Local-first collaborative applications    |Automerge or Yjs, p2panda, Willow                                                                             |These are libraries and protocols, not products — sync topology and auth are still your design work     |
+|Peer-to-peer file transfer and sync       |Syncthing for continuous sync, magic-wormhole for one-shot transfers, WebTorrent in browsers                  |Default discovery and relay servers are project-run; self-host them or stay on LAN for full independence|
+|Decentralized code collaboration          |Radicle, Forgejo for federated forges, Darcs or Pijul as the VCS                                              |Radicle needs reachable seed nodes; ForgeFed federation between forges is still early                   |
+|Content-addressed publishing              |IPFS, Hypercore/Pear, Iroh                                                                                    |Content stays available only while somebody pins or seeds it                                            |
+|Decentralized identity and personal data  |Decentralized Identifiers, Solid, remoteStorage, Keyoxide                                                     |Standards are mature on paper; real-world deployments are small                                         |
+|Censorship-resistant or anonymous services|Tor onion services, I2P, Hyphanet, Ceno Browser                                                               |Anonymity is a property of the network and your own practices, not of decentralization                  |
+|Building a new decentralized application  |libp2p or Iroh for transport, Automerge or Yjs for data, Spritely or Veilid as frameworks, WebXDC inside chats|Decide early what happens when peers are offline — that choice shapes the whole design                  |
 
 ## Graveyard
 *Projects that shaped the decentralized web but are no longer maintained. Kept for the historical record. Domains of dead projects are sometimes squatted or hijacked — where that happened, links point to archived copies.*
