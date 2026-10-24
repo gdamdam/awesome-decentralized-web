@@ -109,6 +109,7 @@ A curated list of peer-to-peer, federated, and local-first protocols, applicatio
 - [Friendica](https://friendi.ca/) - Federated social platform that speaks several protocols at once — ActivityPub, diaspora*, and others — acting as a bridge between networks.
 - [GoToSocial](https://gotosocial.org/) - Lightweight ActivityPub social network server.
 - [Hubzilla](https://hubzilla.org/) - Federated publishing and social platform built on the Zot protocol, whose nomadic identity lets an account and its data move or mirror between servers.
+- [Kiwi News](https://news.kiwistand.com/) - Hacker News-style link aggregator whose submissions, upvotes and comments are signed messages replicated between independently run nodes over libp2p with set reconciliation; anyone can run a node or build a client on the same data.
 - [Lemmy](https://join-lemmy.org/) - Federated link aggregator and discussion forum, on ActivityPub.
 - [Manyverse](https://www.manyver.se/) - Mobile client for Secure Scuttlebutt, an offline-first gossip protocol that syncs social feeds over LAN or internet; content can be encrypted, but the social graph and metadata are public by design.
 - [Mastodon](https://joinmastodon.org/) - Decentralized, federated alternative to Twitter.
