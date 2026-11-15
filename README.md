@@ -173,6 +173,7 @@ A curated list of peer-to-peer, federated, and local-first protocols, applicatio
 - [Ceno Browser](https://censorship.no/) - Censorship-resistant mobile browser that shares and retrieves web content through the Ouinet peer-to-peer cache.
 - [IPWB](https://github.com/oduwsdl/ipwb) - An interplanetary wayback machine.
 - [yacy](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance.
+- [No Stairs Please](https://nostairsplease.com/) - Open directory and remote [MCP server](https://nostairsplease.com/mcp) for small live-music venues across all 50 US states, DC, and BC.
 
 ### Identity & Key Management
 - [Dark Crystal](https://darkcrystal.pw/) - Set of protocols, libraries, techniques and guidelines for secure management of sensitive data such as cryptographic keys.
